@@ -1,0 +1,31 @@
+Performance Monitoring
+FPS Counter: Display the current frame rate.
+CPU/GPU Usage: Show the current usage and temperature of the CPU and GPU.
+Memory Usage: Display the current RAM usage.
+
+System Information
+Clock: Show the current time and date.
+System Uptime: Display how long the system has been running.
+Network Status: Show current upload/download speeds and total data usage.
+
+Utilities
+Screen Capture: Add a button to take screenshots.
+Video Recording: Include functionality to start/stop video recording.
+Notes: A simple text area where players can jot down notes.
+
+Communication Tools
+Chat Overlay: Integrate with platforms like Discord or in-game chat systems to display messages.
+Voice Activity: Display who is talking in a voice chat.
+
+Customization
+Themes: Allow users to switch between different visual themes for the overlay.
+Transparency Slider: Let users adjust the transparency of the overlay.
+Keybinds for tools in the overlay
+Plugin support
+Auto updater
+Cross platform
+Support more APIs
+
+Finished:
+	Customization:
+		Open/close button
