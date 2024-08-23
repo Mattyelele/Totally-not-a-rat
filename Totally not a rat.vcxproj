@@ -77,10 +77,10 @@
     <ExternalIncludePath>C:\Users\tekzl\Desktop\Totally not a rat\external\imgui;$(ExternalIncludePath)</ExternalIncludePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
-    <OutDir>$(SolutionDir)build\</OutDir>
+    <OutDir>..\Build</OutDir>
     <IntDir>$(ShortProjectName)\build\intermediate</IntDir>
-    <IncludePath>C:\Users\tekzl\Desktop\Totally not a rat\external;$(IncludePath)</IncludePath>
-    <ExternalIncludePath>C:\Users\tekzl\Desktop\Totally not a rat\external;$(ExternalIncludePath)</ExternalIncludePath>
+    <IncludePath>E:\Projects\C++\Totally not a rat overlay\Totally-not-a-rat - debug\external;C:\Users\tekzl\Desktop\Totally-not-a-rat - debug\external;$(IncludePath)</IncludePath>
+    <ExternalIncludePath>E:\Projects\C++\Totally not a rat overlay\Totally-not-a-rat - debug\external;$(ExternalIncludePath)</ExternalIncludePath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
@@ -105,14 +105,15 @@
       <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
-      <AdditionalIncludeDirectories>C:\Users\tekzl\Desktop\Totally not a rat\external\imgui;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>E:\Projects\C++\Totally not a rat overlay\Totally-not-a-rat - debug\external\discord_game_sdk;E:\Projects\C++\Totally not a rat overlay\Totally-not-a-rat - debug\external\imgui;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <OptimizeReferences>true</OptimizeReferences>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalDependencies>d3d11.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalDependencies>d3d11.lib;discord_game_sdk.dll.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>E:\Projects\C++\Totally not a rat overlay\Totally-not-a-rat - debug\external\discord_game_sdk;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
@@ -144,6 +145,23 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="external\discord_game_sdk\achievement_manager.h" />
+    <ClInclude Include="external\discord_game_sdk\activity_manager.h" />
+    <ClInclude Include="external\discord_game_sdk\application_manager.h" />
+    <ClInclude Include="external\discord_game_sdk\core.h" />
+    <ClInclude Include="external\discord_game_sdk\discord.h" />
+    <ClInclude Include="external\discord_game_sdk\event.h" />
+    <ClInclude Include="external\discord_game_sdk\ffi.h" />
+    <ClInclude Include="external\discord_game_sdk\image_manager.h" />
+    <ClInclude Include="external\discord_game_sdk\lobby_manager.h" />
+    <ClInclude Include="external\discord_game_sdk\network_manager.h" />
+    <ClInclude Include="external\discord_game_sdk\overlay_manager.h" />
+    <ClInclude Include="external\discord_game_sdk\relationship_manager.h" />
+    <ClInclude Include="external\discord_game_sdk\storage_manager.h" />
+    <ClInclude Include="external\discord_game_sdk\store_manager.h" />
+    <ClInclude Include="external\discord_game_sdk\types.h" />
+    <ClInclude Include="external\discord_game_sdk\user_manager.h" />
+    <ClInclude Include="external\discord_game_sdk\voice_manager.h" />
     <ClInclude Include="external\imgui\imconfig.h" />
     <ClInclude Include="external\imgui\imgui.h" />
     <ClInclude Include="external\imgui\imgui_impl_dx11.h" />
@@ -152,23 +170,139 @@
     <ClInclude Include="external\imgui\imstb_rectpack.h" />
     <ClInclude Include="external\imgui\imstb_textedit.h" />
     <ClInclude Include="external\imgui\imstb_truetype.h" />
+    <ClInclude Include="external\nlohmann\adl_serializer.hpp" />
+    <ClInclude Include="external\nlohmann\byte_container_with_subtype.hpp" />
+    <ClInclude Include="external\nlohmann\detail\abi_macros.hpp" />
+    <ClInclude Include="external\nlohmann\detail\conversions\from_json.hpp" />
+    <ClInclude Include="external\nlohmann\detail\conversions\to_chars.hpp" />
+    <ClInclude Include="external\nlohmann\detail\conversions\to_json.hpp" />
+    <ClInclude Include="external\nlohmann\detail\exceptions.hpp" />
+    <ClInclude Include="external\nlohmann\detail\hash.hpp" />
+    <ClInclude Include="external\nlohmann\detail\input\binary_reader.hpp" />
+    <ClInclude Include="external\nlohmann\detail\input\input_adapters.hpp" />
+    <ClInclude Include="external\nlohmann\detail\input\json_sax.hpp" />
+    <ClInclude Include="external\nlohmann\detail\input\lexer.hpp" />
+    <ClInclude Include="external\nlohmann\detail\input\parser.hpp" />
+    <ClInclude Include="external\nlohmann\detail\input\position_t.hpp" />
+    <ClInclude Include="external\nlohmann\detail\iterators\internal_iterator.hpp" />
+    <ClInclude Include="external\nlohmann\detail\iterators\iteration_proxy.hpp" />
+    <ClInclude Include="external\nlohmann\detail\iterators\iterator_traits.hpp" />
+    <ClInclude Include="external\nlohmann\detail\iterators\iter_impl.hpp" />
+    <ClInclude Include="external\nlohmann\detail\iterators\json_reverse_iterator.hpp" />
+    <ClInclude Include="external\nlohmann\detail\iterators\primitive_iterator.hpp" />
+    <ClInclude Include="external\nlohmann\detail\json_custom_base_class.hpp" />
+    <ClInclude Include="external\nlohmann\detail\json_pointer.hpp" />
+    <ClInclude Include="external\nlohmann\detail\json_ref.hpp" />
+    <ClInclude Include="external\nlohmann\detail\macro_scope.hpp" />
+    <ClInclude Include="external\nlohmann\detail\macro_unscope.hpp" />
+    <ClInclude Include="external\nlohmann\detail\meta\call_std\begin.hpp" />
+    <ClInclude Include="external\nlohmann\detail\meta\call_std\end.hpp" />
+    <ClInclude Include="external\nlohmann\detail\meta\cpp_future.hpp" />
+    <ClInclude Include="external\nlohmann\detail\meta\detected.hpp" />
+    <ClInclude Include="external\nlohmann\detail\meta\identity_tag.hpp" />
+    <ClInclude Include="external\nlohmann\detail\meta\is_sax.hpp" />
+    <ClInclude Include="external\nlohmann\detail\meta\std_fs.hpp" />
+    <ClInclude Include="external\nlohmann\detail\meta\type_traits.hpp" />
+    <ClInclude Include="external\nlohmann\detail\meta\void_t.hpp" />
+    <ClInclude Include="external\nlohmann\detail\output\binary_writer.hpp" />
+    <ClInclude Include="external\nlohmann\detail\output\output_adapters.hpp" />
+    <ClInclude Include="external\nlohmann\detail\output\serializer.hpp" />
+    <ClInclude Include="external\nlohmann\detail\string_concat.hpp" />
+    <ClInclude Include="external\nlohmann\detail\string_escape.hpp" />
+    <ClInclude Include="external\nlohmann\detail\value_t.hpp" />
+    <ClInclude Include="external\nlohmann\json.hpp" />
+    <ClInclude Include="external\nlohmann\json_fwd.hpp" />
+    <ClInclude Include="external\nlohmann\ordered_map.hpp" />
+    <ClInclude Include="external\nlohmann\thirdparty\hedley\hedley.hpp" />
+    <ClInclude Include="external\nlohmann\thirdparty\hedley\hedley_undef.hpp" />
+    <ClInclude Include="external\wil\com.h" />
+    <ClInclude Include="external\wil\common.h" />
+    <ClInclude Include="external\wil\com_apartment_variable.h" />
+    <ClInclude Include="external\wil\coroutine.h" />
+    <ClInclude Include="external\wil\cppwinrt.h" />
+    <ClInclude Include="external\wil\cppwinrt_authoring.h" />
+    <ClInclude Include="external\wil\cppwinrt_helpers.h" />
+    <ClInclude Include="external\wil\cppwinrt_notifiable_module_lock.h" />
+    <ClInclude Include="external\wil\cppwinrt_register_com_server.h" />
+    <ClInclude Include="external\wil\cppwinrt_wrl.h" />
+    <ClInclude Include="external\wil\filesystem.h" />
+    <ClInclude Include="external\wil\nt_result_macros.h" />
+    <ClInclude Include="external\wil\registry.h" />
+    <ClInclude Include="external\wil\registry_helpers.h" />
+    <ClInclude Include="external\wil\resource.h" />
+    <ClInclude Include="external\wil\result.h" />
+    <ClInclude Include="external\wil\result_macros.h" />
+    <ClInclude Include="external\wil\result_originate.h" />
+    <ClInclude Include="external\wil\rpc_helpers.h" />
+    <ClInclude Include="external\wil\safecast.h" />
+    <ClInclude Include="external\wil\stl.h" />
+    <ClInclude Include="external\wil\token_helpers.h" />
+    <ClInclude Include="external\wil\Tracelogging.h" />
+    <ClInclude Include="external\wil\traceloggingconfig.h" />
+    <ClInclude Include="external\wil\win32_helpers.h" />
+    <ClInclude Include="external\wil\win32_result_macros.h" />
+    <ClInclude Include="external\wil\windowing.h" />
+    <ClInclude Include="external\wil\winrt.h" />
+    <ClInclude Include="external\wil\wistd_config.h" />
+    <ClInclude Include="external\wil\wistd_functional.h" />
+    <ClInclude Include="external\wil\wistd_memory.h" />
+    <ClInclude Include="external\wil\wistd_type_traits.h" />
+    <ClInclude Include="external\wil\wrl.h" />
+    <ClInclude Include="src\autoclicker.h" />
     <ClInclude Include="src\ConfigManager.h" />
+    <ClInclude Include="src\console.h" />
+    <ClInclude Include="src\discordgamecore.h" />
+    <ClInclude Include="src\globals.h" />
     <ClInclude Include="src\keys.h" />
+    <ClInclude Include="src\LowLevelKeyboardProc.h" />
+    <ClInclude Include="src\Modules\Memory.h" />
+    <ClInclude Include="src\Modules\ServerBrowser.h" />
+    <ClInclude Include="src\Modules\Serverinfo.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="external\discord_game_sdk\achievement_manager.cpp" />
+    <ClCompile Include="external\discord_game_sdk\activity_manager.cpp" />
+    <ClCompile Include="external\discord_game_sdk\application_manager.cpp" />
+    <ClCompile Include="external\discord_game_sdk\core.cpp" />
+    <ClCompile Include="external\discord_game_sdk\image_manager.cpp" />
+    <ClCompile Include="external\discord_game_sdk\lobby_manager.cpp" />
+    <ClCompile Include="external\discord_game_sdk\network_manager.cpp" />
+    <ClCompile Include="external\discord_game_sdk\overlay_manager.cpp" />
+    <ClCompile Include="external\discord_game_sdk\relationship_manager.cpp" />
+    <ClCompile Include="external\discord_game_sdk\storage_manager.cpp" />
+    <ClCompile Include="external\discord_game_sdk\store_manager.cpp" />
+    <ClCompile Include="external\discord_game_sdk\types.cpp" />
+    <ClCompile Include="external\discord_game_sdk\user_manager.cpp" />
+    <ClCompile Include="external\discord_game_sdk\voice_manager.cpp" />
     <ClCompile Include="external\imgui\imgui.cpp" />
     <ClCompile Include="external\imgui\imgui_draw.cpp" />
     <ClCompile Include="external\imgui\imgui_impl_dx11.cpp" />
     <ClCompile Include="external\imgui\imgui_impl_win32.cpp" />
     <ClCompile Include="external\imgui\imgui_tables.cpp" />
     <ClCompile Include="external\imgui\imgui_widgets.cpp" />
+    <ClCompile Include="src\autoclicker.cpp" />
     <ClCompile Include="src\ConfigManager.cpp" />
+    <ClCompile Include="src\console.cpp" />
+    <ClCompile Include="src\discordgamecore.cpp" />
+    <ClCompile Include="src\LowLevelKeyboardProc.cpp" />
     <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\Modules\Memory.cpp" />
+    <ClCompile Include="src\Modules\ServerBrowser.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="Ideas.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
+    <Import Project="packages\Microsoft.Web.WebView2.1.0.2651.64\build\native\Microsoft.Web.WebView2.targets" Condition="Exists('packages\Microsoft.Web.WebView2.1.0.2651.64\build\native\Microsoft.Web.WebView2.targets')" />
   </ImportGroup>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\Microsoft.Web.WebView2.1.0.2651.64\build\native\Microsoft.Web.WebView2.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Microsoft.Web.WebView2.1.0.2651.64\build\native\Microsoft.Web.WebView2.targets'))" />
+  </Target>
 </Project>

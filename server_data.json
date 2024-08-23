@@ -1,0 +1,4726 @@
+{
+    "player_count": "990",
+    "server_count": "590",
+    "servers": [
+        {
+            "ip": "185.223.28.19",
+            "port": "27026",
+            "name": "[BNUK] MW2 Maps FFA | EU",
+            "map": "mp_quarry",
+            "currentPlayers": 18,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "185.223.28.19",
+            "port": "27017",
+            "name": "[BNUK] MW2 Maps Gun Game | EU",
+            "map": "mp_quarry",
+            "currentPlayers": 18,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "45.67.84.96",
+            "port": "27018",
+            "name": "[EU] Zelta's Sniper Server [No Killstreaks]",
+            "map": "mp_bog",
+            "currentPlayers": 18,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "zedkaysserver.co.uk",
+            "port": "27018",
+            "name": "[EU/UK] ZedkaysServer | Hardpoint | MW2/COD4 Maps 2XP",
+            "map": "mp_crossfire",
+            "currentPlayers": 18,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "zedkaysserver.co.uk",
+            "port": "27016",
+            "name": "[EU/UK] ZedkaysServer | Domination | MW2 Maps 2XP",
+            "map": "mp_terminal",
+            "currentPlayers": 18,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "141.94.32.101",
+            "port": "27017",
+            "name": "[EU/UK] | H2M-FR | TDM | MW2 Maps | XP | #2",
+            "map": "mp_citystreets",
+            "currentPlayers": 18,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "us.cbservers.xyz",
+            "port": "27022",
+            "name": "Celebrity's FFA Trickshot #2",
+            "map": "mp_crash",
+            "currentPlayers": 18,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "47.153.22.75",
+            "port": "27016",
+            "name": "US|CA  Chroma _Best MW2 Maps",
+            "map": "mp_boneyard",
+            "currentPlayers": 17,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "23.26.247.237",
+            "port": "27014",
+            "name": "EU | CRWN #7 TERMINAL 24/7 LONG ROUNDS NO KS [x2 EXP]",
+            "map": "mp_terminal",
+            "currentPlayers": 17,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "71.247.76.48",
+            "port": "27016",
+            "name": "[NAE] MGE-DEV | TDM 2XP | MW GREATEST HITS (1&2)",
+            "map": "mp_highrise",
+            "currentPlayers": 17,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "45.61.162.36",
+            "port": "27019",
+            "name": "[US] CWS | Best Maps DOM/HP #3",
+            "map": "mp_boneyard",
+            "currentPlayers": 17,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "45.61.162.36",
+            "port": "27016",
+            "name": "[US] CWS | Best Maps DOM/HP #2",
+            "map": "mp_highrise",
+            "currentPlayers": 17,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "149.202.89.208",
+            "port": "27019",
+            "name": "NamelessNoobs Best Maps [EU]",
+            "map": "mp_highrise",
+            "currentPlayers": 17,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "141.94.32.101",
+            "port": "27020",
+            "name": "[EU/UK] | H2M-FR | TDM | SHIPMENT/RUST 24/7 | XP | #5",
+            "map": "mp_rust",
+            "currentPlayers": 17,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "45.76.242.40",
+            "port": "27016",
+            "name": "NA-WEST [2XP] | G's MW2 Classics",
+            "map": "mp_highrise",
+            "currentPlayers": 17,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "88.99.151.226",
+            "port": "27026",
+            "name": "EU | H2M.AOKI.TO | XP | /7 TERMINAL",
+            "map": "mp_terminal",
+            "currentPlayers": 17,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "185.223.28.19",
+            "port": "27016",
+            "name": "[BNUK] MW2 Maps FFA | EU",
+            "map": "mp_fuel2",
+            "currentPlayers": 16,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "23.26.247.237",
+            "port": "27015",
+            "name": "EU | CRWN #3 RUST 24/7 LONG ROUNDS NO KILLSTREAKS [x2 EXP]",
+            "map": "mp_rust",
+            "currentPlayers": 16,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "zedkaysserver.co.uk",
+            "port": "27020",
+            "name": "[EU/UK] ZedkaysServer | Domination 2 | MW2 Maps 2XP",
+            "map": "mp_checkpoint",
+            "currentPlayers": 16,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "us.cbservers.xyz",
+            "port": "27020",
+            "name": "Celebrity's Vanilla FFA Trickshot",
+            "map": "mp_favela",
+            "currentPlayers": 16,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "eu.snrservers.com",
+            "port": "27018",
+            "name": "[EU] S&RFFA Trickshot",
+            "map": "mp_terminal",
+            "currentPlayers": 15,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "103.85.37.115",
+            "port": "27016",
+            "name": "[AU] Lethal Gaming | TDM/DOM/HP | MW2/MWR VOTEMAP [24/7] [XP]",
+            "map": "mp_highrise",
+            "currentPlayers": 15,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "141.94.32.101",
+            "port": "27018",
+            "name": "[EU/UK] | H2M-FR | DOM | MW2 Maps | XP | #3",
+            "map": "mp_creek",
+            "currentPlayers": 15,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "192.157.29.106",
+            "port": "27018",
+            "name": "Kat-Net | Domination S3",
+            "map": "mp_invasion",
+            "currentPlayers": 15,
+            "maxPlayers": 16
+        },
+        {
+            "ip": "192.157.29.106",
+            "port": "27017",
+            "name": "Kat-Net | Domination S2",
+            "map": "mp_afghan",
+            "currentPlayers": 15,
+            "maxPlayers": 16
+        },
+        {
+            "ip": "45.62.160.247",
+            "port": "27017",
+            "name": "Justeeno's NA-C /7 Objective",
+            "map": "mp_terminal",
+            "currentPlayers": 15,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "148.113.196.36",
+            "port": "1996",
+            "name": "[NA-1] 1337 Team Sniper Lobby Server VOTE MAP MW2-COD4 MAP",
+            "map": "mp_vacant",
+            "currentPlayers": 14,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "141.94.32.101",
+            "port": "27019",
+            "name": "[EU/UK] | H2M-FR | DOM | TERMINAL 24/7 | XP | #4",
+            "map": "mp_terminal",
+            "currentPlayers": 14,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "38.45.200.178",
+            "port": "27040",
+            "name": "HaZeyNetwork | Map & Gamemode Voting | COD4/MW2/CR Maps 2XP EU #1",
+            "map": "mp_abandon",
+            "currentPlayers": 14,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "57.128.171.20",
+            "port": "27016",
+            "name": "[EU] Geezas FFA (VANILLA)",
+            "map": "mp_favela",
+            "currentPlayers": 14,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "us.cbservers.xyz",
+            "port": "27021",
+            "name": "Celebrity's FFA Trickshot",
+            "map": "mp_underpass",
+            "currentPlayers": 13,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "204.13.236.91",
+            "port": "27019",
+            "name": "Kat-Net | HardPoint S1",
+            "map": "mp_brecourt",
+            "currentPlayers": 13,
+            "maxPlayers": 16
+        },
+        {
+            "ip": "185.223.28.19",
+            "port": "28019",
+            "name": "[BNUK] Rustment 24/7 #2 | EU",
+            "map": "mp_shipment",
+            "currentPlayers": 12,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "185.223.28.19",
+            "port": "28018",
+            "name": "[BNUK] Rustment 24/7 #1 | EU",
+            "map": "mp_rust",
+            "currentPlayers": 12,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "51.161.192.200",
+            "port": "27017",
+            "name": "[AU] Gunji x 71st - Vanilla FFA Trickshotting 2!",
+            "map": "mp_afghan",
+            "currentPlayers": 12,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "eu.snrservers.com",
+            "port": "27022",
+            "name": "[EU] S&RSND Trickshot",
+            "map": "mp_brecourt",
+            "currentPlayers": 12,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "178.1.37.36",
+            "port": "27016",
+            "name": "[EU] SHIPMENT 24/7  2XP",
+            "map": "mp_shipment",
+            "currentPlayers": 12,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "178.1.37.36",
+            "port": "27015",
+            "name": "[EU] SHIPMENT 24/7  2XP",
+            "map": "mp_shipment",
+            "currentPlayers": 12,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "178.1.37.36",
+            "port": "27018",
+            "name": "[EU] SHIPMENT 24/7  2XP",
+            "map": "mp_shipment",
+            "currentPlayers": 12,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "172.86.108.126",
+            "port": "27016",
+            "name": "[NA-E] RATED R | DOM/KC/HP/GUN 24/7 | MW2 + MWR MAPS | DOUBLE XP | Bots Enabled",
+            "map": "mp_highrise",
+            "currentPlayers": 12,
+            "maxPlayers": 14
+        },
+        {
+            "ip": "zedkaysserver.co.uk",
+            "port": "27017",
+            "name": "[EU/UK] ZedkaysServer | Free For All | MW2 Maps 2XP #1",
+            "map": "mp_boneyard",
+            "currentPlayers": 12,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "185.223.28.19",
+            "port": "28017",
+            "name": "[BNUK] Small Maps Mix | EU",
+            "map": "mp_shipment",
+            "currentPlayers": 11,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "178.1.37.36",
+            "port": "27019",
+            "name": "[EU] SHIPMENT 24/7  2XP",
+            "map": "mp_shipment",
+            "currentPlayers": 11,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "23.26.130.20",
+            "port": "27016",
+            "name": "[Freak of Duty]  24/7 DOM |  [2XP]  |  [LA-1]",
+            "map": "mp_showdown",
+            "currentPlayers": 11,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "47.186.228.188",
+            "port": "27031",
+            "name": "[US]  MTS Dallas #6 |  TDM  9v9 Harcore | MW2 MP Maps |  4x  XP",
+            "map": "mp_subbase",
+            "currentPlayers": 10,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "38.45.200.178",
+            "port": "27060",
+            "name": "HaZeyNetwork | Map & Gamemode Voting | COD4/MW2/CR Maps 2XP EU #2",
+            "map": "mp_pipeline",
+            "currentPlayers": 10,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "184.174.18.202",
+            "port": "27016",
+            "name": "GWK SnD (x2XP)",
+            "map": "mp_derail",
+            "currentPlayers": 10,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "zedkaysserver.co.uk",
+            "port": "27031",
+            "name": "[EU/UK] ZedkaysServer | FFA Trickshotting #2",
+            "map": "mp_checkpoint",
+            "currentPlayers": 9,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "51.77.137.174",
+            "port": "27016",
+            "name": "[EU] H2M Tricky Myers",
+            "map": "mp_rust",
+            "currentPlayers": 9,
+            "maxPlayers": 15
+        },
+        {
+            "ip": "45.62.160.247",
+            "port": "27021",
+            "name": "Justeeno's NA-C /7 Objective #2",
+            "map": "mp_boneyard",
+            "currentPlayers": 9,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "eu.snrservers.com",
+            "port": "27020",
+            "name": "[EU] S&RFFA Trickshot",
+            "map": "mp_trailerpark",
+            "currentPlayers": 8,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "116.202.156.245",
+            "port": "27022",
+            "name": "[EU] MW2 Remasterd[24/7|x2 XP]",
+            "map": "mp_bog",
+            "currentPlayers": 8,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "51.161.192.200",
+            "port": "27016",
+            "name": "[AU] Gunji x 71st - SND Trickshotting!",
+            "map": "mp_terminal",
+            "currentPlayers": 7,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "eu.snrservers.com",
+            "port": "27019",
+            "name": "[EU] S&RFFA Trickshot",
+            "map": "mp_rust",
+            "currentPlayers": 7,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "192.157.29.106",
+            "port": "27016",
+            "name": "Kat-Net | Domination S1",
+            "map": "mp_brecourt",
+            "currentPlayers": 7,
+            "maxPlayers": 16
+        },
+        {
+            "ip": "51.161.192.200",
+            "port": "27019",
+            "name": "[AU] Gunji x 71st - Modded FFA Trickshotting!",
+            "map": "mp_highrise",
+            "currentPlayers": 6,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "170.39.49.137",
+            "port": "27016",
+            "name": "RustMent Dom/KC/TDM 24/7|2x XP",
+            "map": "mp_shipment",
+            "currentPlayers": 6,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "45.62.160.247",
+            "port": "27018",
+            "name": "Justeeno's NA-C TDM",
+            "map": "mp_trailerpark",
+            "currentPlayers": 6,
+            "maxPlayers": 14
+        },
+        {
+            "ip": "38.60.136.95",
+            "port": "27016",
+            "name": "(EU)xFasstz Best Maps",
+            "map": "mp_terminal",
+            "currentPlayers": 6,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "85.237.211.83",
+            "port": "27016",
+            "name": "[AE] fl0ydsg's mixed ground war",
+            "map": "mp_rundown",
+            "currentPlayers": 5,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "194.164.96.183",
+            "port": "27016",
+            "name": "[UK] Bong's SNIPERS ONLY Server [NO STREAKS] [LOW PING] [BHOPS ENABLED]",
+            "map": "mp_shipment",
+            "currentPlayers": 5,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "185.223.28.19",
+            "port": "28016",
+            "name": "[BNUK] MW2 Maps S&D | EU",
+            "map": "mp_afghan",
+            "currentPlayers": 4,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "23.26.247.237",
+            "port": "27012",
+            "name": "EU | CRWN #5 Search & Destroy 24/7 [x2 EXP]",
+            "map": "mp_boneyard",
+            "currentPlayers": 4,
+            "maxPlayers": 14
+        },
+        {
+            "ip": "46.105.42.54",
+            "port": "27018",
+            "name": "[EU/FR] LUL.TF | Rust 24/7 Domination | 2XP",
+            "map": "mp_rust",
+            "currentPlayers": 4,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "185.249.225.191",
+            "port": "27016",
+            "name": "[EU] noMercy | OLDSCHOOL | TDM, DOM, DM, CONF | DOUBLE XP WEEKENDS",
+            "map": "mp_quarry",
+            "currentPlayers": 4,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "us.cbservers.xyz",
+            "port": "27023",
+            "name": "Celebrity's FFA Trickshot [RESERVED ONLY]",
+            "map": "mp_highrise",
+            "currentPlayers": 4,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "23.26.130.20",
+            "port": "27017",
+            "name": "[Freak of Duty]  24/7 DOM |  [2XP]  |  [LA-2]",
+            "map": "mp_boneyard",
+            "currentPlayers": 4,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "204.13.236.91",
+            "port": "27016",
+            "name": "Kat-Net | Kill Confirmed S1",
+            "map": "mp_nightshift",
+            "currentPlayers": 4,
+            "maxPlayers": 16
+        },
+        {
+            "ip": "157.175.70.219",
+            "port": "27016",
+            "name": "[MENA] ORYX Middle-East Server |DOM|MW2 MAPS",
+            "map": "mp_nightshift",
+            "currentPlayers": 4,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "128.140.1.110",
+            "port": "27016",
+            "name": "[EU] Desire's MW2 FFA Trickshot (Wallbang Everything)",
+            "map": "mp_overgrown",
+            "currentPlayers": 3,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "107.205.0.243",
+            "port": "28963",
+            "name": "[US East] Couch Spaghetti | TDM/KC 24/7 | 2XP | Bots Enabled",
+            "map": "mp_fuel2",
+            "currentPlayers": 3,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "82.153.70.152",
+            "port": "27017",
+            "name": "EU | unko #4 | TDM 200 Points | Rust/Shipment | NO STREAKS/STUNS/TUBES | 2XP",
+            "map": "mp_convoy",
+            "currentPlayers": 3,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "23.26.247.237",
+            "port": "27011",
+            "name": "EU | CRWN #6 Search & Destroy 24/7 #2 [x2 EXP]",
+            "map": "mp_terminal",
+            "currentPlayers": 3,
+            "maxPlayers": 14
+        },
+        {
+            "ip": "23.26.247.237",
+            "port": "27016",
+            "name": "EU | CRWN #1 MW2 Classic Maps NO KILLSTREAKS 24/7 [x2 EXP]",
+            "map": "mp_terminal",
+            "currentPlayers": 3,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "23.26.247.237",
+            "port": "27010",
+            "name": "EU | CRWN #4 HardPoint NO KILLSTREAKS[x2 EXP]",
+            "map": "mp_boneyard",
+            "currentPlayers": 3,
+            "maxPlayers": 16
+        },
+        {
+            "ip": "23.26.247.237",
+            "port": "27013",
+            "name": "EU | CRWN #2 FFA 24/7 NO KILLSTREAKS [x2 EXP]",
+            "map": "mp_favela",
+            "currentPlayers": 3,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "5.161.253.93",
+            "port": "27020",
+            "name": "ProReborn's  Terminal 24/7  DOM Only",
+            "map": "mp_terminal",
+            "currentPlayers": 3,
+            "maxPlayers": 16
+        },
+        {
+            "ip": "188.64.33.38",
+            "port": "5083",
+            "name": "[HGM] Domination",
+            "map": "mp_highrise",
+            "currentPlayers": 3,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "92.234.87.215",
+            "port": "27016",
+            "name": "UK1861 | TDM | ALL MAPS | VANILLA|150 Score",
+            "map": "mp_favela",
+            "currentPlayers": 3,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "134.255.225.188",
+            "port": "27017",
+            "name": "[EU] pznull's Community Server | Rust 24/7 | Domination #2 | x2 XP",
+            "map": "mp_rust",
+            "currentPlayers": 3,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "141.94.32.101",
+            "port": "27016",
+            "name": "[EU/UK] | H2M-FR | FFA | MW2 Maps | XP | #1",
+            "map": "mp_broadcast",
+            "currentPlayers": 3,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "38.45.200.178",
+            "port": "27065",
+            "name": "HaZeyNetwork | Map & Gamemode Voting | COD4/MW2/CR Maps 2XP EU #3",
+            "map": "mp_backlot",
+            "currentPlayers": 3,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "204.13.236.91",
+            "port": "27017",
+            "name": "Kat-Net | Kill Confirmed S2",
+            "map": "mp_complex",
+            "currentPlayers": 3,
+            "maxPlayers": 16
+        },
+        {
+            "ip": "204.13.236.91",
+            "port": "27018",
+            "name": "Kat-Net | Kill Confirmed S3",
+            "map": "mp_invasion",
+            "currentPlayers": 3,
+            "maxPlayers": 16
+        },
+        {
+            "ip": "88.99.151.226",
+            "port": "27027",
+            "name": "EU | H2M.AOKI.TO | XP | /7 SHIPMENT",
+            "map": "mp_shipment",
+            "currentPlayers": 3,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "200.217.56.53",
+            "port": "27016",
+            "name": "[BR] - Inigualaveis | 24/7",
+            "map": "mp_underpass",
+            "currentPlayers": 3,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "51.161.192.200",
+            "port": "27020",
+            "name": "[AU] Gunji x 71st - Snipers Only | No Streaks!",
+            "map": "mp_storm",
+            "currentPlayers": 2,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "217.160.208.246",
+            "port": "27016",
+            "name": "[EU] [DGH] CENTRAL 2XP | HARDCORE",
+            "map": "mp_convoy",
+            "currentPlayers": 2,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "45.153.241.23",
+            "port": "27016",
+            "name": "[EU] Default MW2 Only, No BS",
+            "map": "mp_quarry",
+            "currentPlayers": 2,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "66.234.95.214",
+            "port": "27017",
+            "name": "NA-EAST GreenerPastures TDM (MW2 MAPS)",
+            "map": "mp_subbase",
+            "currentPlayers": 2,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "103.100.38.201",
+            "port": "27016",
+            "name": "[AU] NOSOOKS | All Modes All Maps No Rules",
+            "map": "mp_bog_summer",
+            "currentPlayers": 2,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "154.12.243.246",
+            "port": "27016",
+            "name": "[420] Domination Goated Maps [420]",
+            "map": "mp_rust",
+            "currentPlayers": 2,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "45.67.84.96",
+            "port": "27016",
+            "name": "[EU] Zelta's Best Maps",
+            "map": "mp_highrise",
+            "currentPlayers": 2,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "zedkaysserver.co.uk",
+            "port": "27019",
+            "name": "[EU/UK] ZedkaysServer | Gun Game | MW2 Maps 2XP",
+            "map": "mp_checkpoint",
+            "currentPlayers": 2,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "148.135.76.60",
+            "port": "27017",
+            "name": "[Sunsets Hosting][US-WEST LOS ANGELES] RUSTMENT - 2X XP",
+            "map": "mp_rust",
+            "currentPlayers": 2,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "70.48.95.209",
+            "port": "27019",
+            "name": "[NA EAST] ITG #03 | Domination Only | ALL MWR/MW2 MAPS | XP",
+            "map": "mp_convoy",
+            "currentPlayers": 2,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "116.202.156.245",
+            "port": "27181",
+            "name": "[EU] MW2 Remasterd Sniper only[24/7|x2 XP]",
+            "map": "mp_killhouse",
+            "currentPlayers": 2,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "141.94.106.77",
+            "port": "27019",
+            "name": "[NL] Shipment 24/7 [TDM]",
+            "map": "mp_shipment",
+            "currentPlayers": 2,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "158.220.87.194",
+            "port": "27016",
+            "name": "EU APOLLOS FAVOURITES 24/7 CLASSIC 4XP",
+            "map": "mp_terminal",
+            "currentPlayers": 2,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "84.32.199.77",
+            "port": "27016",
+            "name": "EU/LTU | MWR AND MW2 SMALL MAPS | 2XP | TDM DOM KC | BOTS | MAP VOTING",
+            "map": "mp_highrise",
+            "currentPlayers": 2,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "104.194.145.39",
+            "port": "27016",
+            "name": "[INCMPL]Domination Best Maps X XP",
+            "map": "mp_highrise",
+            "currentPlayers": 2,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "204.13.236.91",
+            "port": "27024",
+            "name": "Kat-Net | Search and Destroy S3",
+            "map": "mp_invasion",
+            "currentPlayers": 2,
+            "maxPlayers": 16
+        },
+        {
+            "ip": "204.13.236.91",
+            "port": "27020",
+            "name": "Kat-Net | HardPoint S2",
+            "map": "mp_complex",
+            "currentPlayers": 2,
+            "maxPlayers": 16
+        },
+        {
+            "ip": "204.13.236.91",
+            "port": "27025",
+            "name": "Kat-Net | Gun Game S1",
+            "map": "mp_boneyard",
+            "currentPlayers": 2,
+            "maxPlayers": 16
+        },
+        {
+            "ip": "204.13.236.91",
+            "port": "27022",
+            "name": "Kat-Net | Search and Destroy S1",
+            "map": "mp_trailerpark",
+            "currentPlayers": 2,
+            "maxPlayers": 16
+        },
+        {
+            "ip": "204.13.236.91",
+            "port": "27023",
+            "name": "Kat-Net | Search and Destroy S2",
+            "map": "mp_storm",
+            "currentPlayers": 2,
+            "maxPlayers": 16
+        },
+        {
+            "ip": "192.157.29.106",
+            "port": "27019",
+            "name": "Kat-Net | Team Deathmatch S1",
+            "map": "mp_rundown",
+            "currentPlayers": 2,
+            "maxPlayers": 16
+        },
+        {
+            "ip": "204.13.236.91",
+            "port": "27026",
+            "name": "Kat-Net | Best Maps S1 | Highrise,Terminal,Rust,Wasteland,Shipment",
+            "map": "mp_highrise",
+            "currentPlayers": 2,
+            "maxPlayers": 16
+        },
+        {
+            "ip": "88.99.151.226",
+            "port": "27028",
+            "name": "EU | H2M.AOKI.TO | XP | /7 RUST",
+            "map": "mp_rust",
+            "currentPlayers": 2,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "185.172.175.33",
+            "port": "27016",
+            "name": "[EU/UK] JP's Shipment 24/7 [x2 XP] [Bots]",
+            "map": "mp_shipment",
+            "currentPlayers": 2,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "5.104.85.49",
+            "port": "27016",
+            "name": "[Asia/JPN] - Dom 2x XP - iDreamServers",
+            "map": "mp_trailerpark",
+            "currentPlayers": 2,
+            "maxPlayers": 14
+        },
+        {
+            "ip": "193.25.201.183",
+            "port": "45017",
+            "name": "[EU/GER] | Internationals | German Community | [24/7] DOM / ALL MW2 MAPS (2x XP)",
+            "map": "mp_rundown",
+            "currentPlayers": 2,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "78.117.191.15",
+            "port": "27017",
+            "name": "[EU] Advanced Warfare (Exo-Movement + Maps) | Domination No Harrier/Chopper",
+            "map": "mp_blackbox",
+            "currentPlayers": 2,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "45.87.172.97",
+            "port": "27013",
+            "name": "[EU] MysteriousRyan's TDM #1 | UAVs ONLY |  POINTS TO WIN | x4XP",
+            "map": "mp_afghan",
+            "currentPlayers": 2,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "193.168.172.60",
+            "port": "27016",
+            "name": "[EU] LEETIN | INSTANT LAST | SAVE & LOAD POS | SETUP BOT | UFO | TRICKSHOT SERVER | BEST MAPS ONLY",
+            "map": "mp_boneyard",
+            "currentPlayers": 2,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "h2m.servphcorpp.com",
+            "port": "27016",
+            "name": "[NAE x EXP] Fat Floppy Weiners Ground War [TDM, DOM]",
+            "map": "mp_terminal",
+            "currentPlayers": 2,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "128.140.1.110",
+            "port": "27017",
+            "name": "[EU] Desire's MW2 FFA Trickshot (Wallbang Everything) #2",
+            "map": "mp_underpass",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "107.205.0.243",
+            "port": "28960",
+            "name": "[US East] Couch Spaghetti | Objective 24/7 | 2XP | Bots Enabled",
+            "map": "mp_highrise",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "82.153.70.152",
+            "port": "27016",
+            "name": "EU | unko #2 | Domination | COD4/MW2 Maps | 2XP",
+            "map": "mp_broadcast",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "217.160.208.246",
+            "port": "27026",
+            "name": "[EU-CENTRAL] | DAILYGAMINGHOUSE.EU | 2XP",
+            "map": "mp_bloc",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "67.240.74.140",
+            "port": "27018",
+            "name": "[US-NY] Braindead Idiot - DOM - Default - All MW2 Maps",
+            "map": "mp_complex",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "154.53.42.186",
+            "port": "27018",
+            "name": "Lotus Servers | FFA [Vanilla] | MW2 Maps",
+            "map": "mp_terminal",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "eu.snrservers.com",
+            "port": "27023",
+            "name": "[EU] S&RSND Trickshot & Rescue",
+            "map": "mp_favela",
+            "currentPlayers": 1,
+            "maxPlayers": 14
+        },
+        {
+            "ip": "eu.snrservers.com",
+            "port": "27021",
+            "name": "[EU] S&RFFA Trickshot",
+            "map": "mp_checkpoint",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "209.182.227.138",
+            "port": "27016",
+            "name": "WEST COAST HARDPOINT BEST MAPS",
+            "map": "mp_rust",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "103.195.100.207",
+            "port": "29735",
+            "name": "MANIACOS TDM",
+            "map": "mp_shipment",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "154.12.244.58",
+            "port": "27017",
+            "name": "[NA-WEST] RustMent DOM/TDM/FFA |Triple-A #3| Mode Voting 24/7! x2 XP",
+            "map": "mp_shipment",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "46.105.42.54",
+            "port": "27019",
+            "name": "[EU/FR] LUL.TF | Gamemode Mix & MAP VOTE | MW2 MAPS | 2XP",
+            "map": "mp_derail",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "23.26.227.107",
+            "port": "27016",
+            "name": "Chinchilla FFA Server 2X XP",
+            "map": "mp_subbase",
+            "currentPlayers": 1,
+            "maxPlayers": 14
+        },
+        {
+            "ip": "82.153.70.154",
+            "port": "27019",
+            "name": "EU | unko #3 | Domination | Terminal 24/7 | NO STUNS/TUBES | 2XP",
+            "map": "mp_terminal",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "cambergang.de",
+            "port": "27016",
+            "name": "OG SND TRICKSHOT",
+            "map": "mp_killhouse",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "20.81.214.123",
+            "port": "27016",
+            "name": "[USA] MTS US-EAST |  TDM NO KILLSTREAKS VOTEKICK/VOTEMAP (!vk !vm) MW2 MAPS | XXP",
+            "map": "mp_trailerpark",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "154.38.178.7",
+            "port": "27015",
+            "name": "[US-EAST] Sabs Hotdog Shack | MWR/MW2 TDM/KC/HQ/HP/DOM [X2 XP]",
+            "map": "mp_invasion",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "188.64.33.38",
+            "port": "5081",
+            "name": "[HGM] Team Deathmatch",
+            "map": "mp_abandon",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "188.64.33.38",
+            "port": "5084",
+            "name": "[HGM] Best Maps 24/7",
+            "map": "mp_checkpoint",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "92.234.87.215",
+            "port": "27017",
+            "name": "UK1861 | DOMINATION | ALL MAPS | VANILLA|300 Score",
+            "map": "mp_highrise",
+            "currentPlayers": 1,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "45.61.162.36",
+            "port": "27018",
+            "name": "[US] CWS | Best Maps GUNGAME",
+            "map": "mp_trailerpark",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "191.96.225.17",
+            "port": "27024",
+            "name": "[BR] - KVRA Club | MW2 Best Maps | DOMINATION | discord.gg/XJFTgUBTaX #6",
+            "map": "mp_terminal",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "85.239.244.149",
+            "port": "27016",
+            "name": "Dim's H2M Server (NAC) | TDM DOM | BEST MAPS",
+            "map": "mp_favela",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "47.186.228.188",
+            "port": "27027",
+            "name": "[US] MTS Dallas #1 | TDM v9 | MW2:CR/MW2 MP Maps | x XP",
+            "map": "mp_quarry",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "47.186.228.188",
+            "port": "27030",
+            "name": "[US] MTS Dallas #4 | TDM v9 | 24/7 Shipment | x XP",
+            "map": "mp_shipment",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "195.26.246.216",
+            "port": "27016",
+            "name": "[NA EAST] [PWCB] x XP COD4/MW2 MAPS",
+            "map": "mp_broadcast",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "5.78.105.247",
+            "port": "27017",
+            "name": "[NA-WEST] KEKW *SNIPERS ONLY* | RUSTMENTYARD NO STREAKS",
+            "map": "mp_highrise",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "188.74.83.60",
+            "port": "27016",
+            "name": "[EU/UK] GEOT.DEV H2M Server [2XP]",
+            "map": "mp_favela",
+            "currentPlayers": 1,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "138.201.249.28",
+            "port": "28016",
+            "name": "/7 Shipment X Xp Bots when empty",
+            "map": "mp_shipment",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "ulow.lol",
+            "port": "27004",
+            "name": "[uLow.lol]{SND | HP | KC}(MWR | MW2)<VOTE | 2XP | EU | 24/7 | #4>",
+            "map": "mp_convoy",
+            "currentPlayers": 1,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "ulow.lol",
+            "port": "27005",
+            "name": "[uLow.lol]{GUN | SAB | HQ}(MWR | MW2)<VOTE | 2XP | EU | 24/7 | #5>",
+            "map": "mp_fuel2",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "ulow.lol",
+            "port": "27008",
+            "name": "[uLow.lol]{TDM | DOM | FFA | SND | KC | GUN}(MW2CR)<VOTE | 2XP | EU | 24/7 | #8>",
+            "map": "dcburning",
+            "currentPlayers": 1,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "45.90.12.150",
+            "port": "27018",
+            "name": "NAE BLACKPULSE RAW RUST 24/7",
+            "map": "mp_rust",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "104.194.145.39",
+            "port": "27017",
+            "name": "[INCMPL]DOM Killhouse 24/7 No Streaks",
+            "map": "mp_killhouse",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "us.cbservers.xyz",
+            "port": "27024",
+            "name": "Celebrity's FFA Trickshot #2 [RESERVED ONLY]",
+            "map": "mp_highrise",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "38.45.200.178",
+            "port": "27050",
+            "name": "HaZeyNetwork | HC | Map & Gamemode Voting | COD4/MW2/MW2/CR Maps 2XP EU",
+            "map": "mp_creek",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "167.88.170.227",
+            "port": "27017",
+            "name": "[NA-C] Vital H2M 24/7 | BEST OF MWR/MW2 TDM/KC/DOM/FFA | 2XP & MAP VOTING",
+            "map": "mp_shipment",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "192.157.29.106",
+            "port": "27028",
+            "name": "Kat-Net | Domination S6",
+            "map": "mp_highrise",
+            "currentPlayers": 1,
+            "maxPlayers": 16
+        },
+        {
+            "ip": "192.157.29.106",
+            "port": "27023",
+            "name": "Kat-Net | Free For All S2",
+            "map": "mp_rundown",
+            "currentPlayers": 1,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "192.157.29.106",
+            "port": "27022",
+            "name": "Kat-Net | Free For All S1",
+            "map": "mp_highrise",
+            "currentPlayers": 1,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "192.157.29.106",
+            "port": "27027",
+            "name": "Kat-Net | Domination S5",
+            "map": "mp_afghan",
+            "currentPlayers": 1,
+            "maxPlayers": 16
+        },
+        {
+            "ip": "192.157.29.106",
+            "port": "27021",
+            "name": "Kat-Net | Team Deathmatch S3",
+            "map": "mp_invasion",
+            "currentPlayers": 1,
+            "maxPlayers": 16
+        },
+        {
+            "ip": "192.157.29.106",
+            "port": "27020",
+            "name": "Kat-Net | Team DeathMatch S2",
+            "map": "mp_rust",
+            "currentPlayers": 1,
+            "maxPlayers": 16
+        },
+        {
+            "ip": "198.98.204.104",
+            "port": "27121",
+            "name": "[US] [2XP] [DynamicLab] 24/7 DOM - MW2 Maps",
+            "map": "mp_estate",
+            "currentPlayers": 1,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "localhost",
+            "port": "27016",
+            "name": "Test Server",
+            "map": "mp_checkpoint",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "222.186.34.10",
+            "port": "27013",
+            "name": "\u00e5\u0160\u00a0Q\u00e7\u00be\u00a4940492488 CN Infected \u00e6\u201e\u0178\u00e6\u0178\u201c\u00e6\u00a8\u00a1\u00e5\u00bc\u008f",
+            "map": "mp_crash",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "152.53.39.127",
+            "port": "27016",
+            "name": "[US-EAST] Respex | Map Voting | COD4/MW2 Maps | TDM/DOM/KC | 2XP",
+            "map": "mp_crossfire",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "104.4.120.68",
+            "port": "47016",
+            "name": "US EAST The Cod Alley 24/7 MWR+MW2 TDM,DOM,KC,Inf X2-XP Bots+MapVoting",
+            "map": "mp_strike",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "memecity.co",
+            "port": "27016",
+            "name": "[AU] Memecity Gamin DOM WAR KC",
+            "map": "mp_pipeline",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "136.36.172.59",
+            "port": "27018",
+            "name": "[NA-WEST] the cubbyhole - [XP Weekend] Moshpit #",
+            "map": "mp_rust",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "184.174.18.202",
+            "port": "27017",
+            "name": "GWK SND 2 (x2XP)",
+            "map": "mp_nightshift",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "184.174.18.202",
+            "port": "27018",
+            "name": "THE CLUB S&D (HUGE EXP)",
+            "map": "mp_underpass",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "161.51.48.91",
+            "port": "27016",
+            "name": "[EU] Logey's Domination on ALL MAPS (MW2+MWR+MW2CR+AW) w/ Voting + Bots",
+            "map": "dc_whitehouse",
+            "currentPlayers": 1,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "86.26.158.125",
+            "port": "27016",
+            "name": "EU/UK BEST MAPS DOM 24/7 X2 XP  ANTI CAMP HIGH PERFORMANCE",
+            "map": "mp_favela",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "86.26.158.125",
+            "port": "27017",
+            "name": "EU/UK BEST MAPS TDM 24/7 X2 XP  ANTI CAMP HIGH PERFORMANCE",
+            "map": "mp_vacant",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "45.87.172.97",
+            "port": "27014",
+            "name": "[EU] MysteriousRyan's TDM HC #1 | NO KILLSTREAKS |  POINTS TO WIN | x4XP",
+            "map": "mp_shipment",
+            "currentPlayers": 1,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "45.87.172.97",
+            "port": "27015",
+            "name": "[EU] MysteriousRyan's DOM #1 | NO KILLSTREAKS |  POINTS TO WIN | x2XP",
+            "map": "mp_nightshift",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "154.38.179.211",
+            "port": "27016",
+            "name": "[LATAM-USA]  | SPSERVERS  | H2MESP DISCORD  | MW2MAPS  | [X2 XP]",
+            "map": "mp_complex",
+            "currentPlayers": 1,
+            "maxPlayers": 14
+        },
+        {
+            "ip": "89.77.32.99",
+            "port": "27016",
+            "name": "[EU][HC][24/7][2XP]  No Private Slots! [MWR+MW2]",
+            "map": "mp_crash_snow",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "204.13.236.93",
+            "port": "28000",
+            "name": "[NA] DOMINATION BEST MAPS [2XP]",
+            "map": "mp_shipment",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "178.214.34.22",
+            "port": "27016",
+            "name": "Default Server",
+            "map": "mp_underpass",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "24.183.215.76",
+            "port": "27016",
+            "name": "KT's Server [public]",
+            "map": "mp_brecourt",
+            "currentPlayers": 1,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "54.37.245.114",
+            "port": "27021",
+            "name": "[EU/UK] Evolved | Rust/Shipment [No Killstreaks] | /7 - 2XP",
+            "map": "mp_rust",
+            "currentPlayers": 1,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "142.132.217.73",
+            "port": "27116",
+            "name": "[EU]The Shadow Angels FFA | MW2 Maps",
+            "map": "mp_cargoship",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "107.205.0.243",
+            "port": "28962",
+            "name": "[US East] Couch Spaghetti | Search & Destroy 24/7 | 2XP",
+            "map": "mp_nightshift",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "107.205.0.243",
+            "port": "28961",
+            "name": "[US East] Couch Spaghetti | Objective 24/7 | No Killstreaks | 2XP | Bots Enabled",
+            "map": "mp_highrise",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "107.205.0.243",
+            "port": "28964",
+            "name": "[US East] Couch Spaghetti | Hardcore TDM/KC 24/7 | 2XP | Bots Enabled",
+            "map": "mp_strike",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "dragonserver.ddns.net",
+            "port": "27052",
+            "name": "[EU]Dragon Server X2XP!",
+            "map": "mp_checkpoint",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "198.23.145.74",
+            "port": "27027",
+            "name": "RG H2M-Mod Multiplayer",
+            "map": "mp_farm_spring",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "185.248.140.233",
+            "port": "27016",
+            "name": "Privater RvNx-MWR-Server",
+            "map": "mp_highrise",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "51.161.192.200",
+            "port": "27018",
+            "name": "[AU] Gunji x 71st - Vanilla FFA Trickshotting!",
+            "map": "mp_abandon",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "76.139.13.229",
+            "port": "27016",
+            "name": "Tyrones Traphouse MW2 MAPS",
+            "map": "mp_subbase",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "46.4.26.120",
+            "port": "26009",
+            "name": "[FwG] TEAM DEATHMATCH| Discord: fwgclan.eu",
+            "map": "mp_nightshift",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "46.4.26.120",
+            "port": "26008",
+            "name": "[FwG] FREE FOR ALL| Discord: fwgclan.eu",
+            "map": "mp_brecourt",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "46.4.26.120",
+            "port": "26010",
+            "name": "[FwG] FREE FOR ALL RUST| Discord: fwgclan.eu",
+            "map": "mp_rust",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "103.62.51.222",
+            "port": "27016",
+            "name": "MWR Comp",
+            "map": "mp_invasion",
+            "currentPlayers": 0,
+            "maxPlayers": 10
+        },
+        {
+            "ip": "23.26.121.109",
+            "port": "27017",
+            "name": "NA-W/E - Hulu's - Trickshot Last! - MW2/CR",
+            "map": "mp_abandon",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "h2m-eu1.wraith.to",
+            "port": "27017",
+            "name": "[EU] Wraith's 2XP | Mosh Pit #2 | MW2 & COD4 Maps | discord.gg/wogs",
+            "map": "mp_complex",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "h2m-eu1.wraith.to",
+            "port": "27018",
+            "name": "[EU] Wraith's 2XP | Mosh Pit #3 | MW2 & COD4 Maps | discord.gg/wogs",
+            "map": "mp_boneyard",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "h2m-eu4.wraith.to",
+            "port": "27016",
+            "name": "[EU] Wraith's 2XP | S&D #1 | MW2 & COD4 Maps | discord.gg/wogs",
+            "map": "mp_carentan",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "h2m-eu1.wraith.to",
+            "port": "27020",
+            "name": "[EU] Wraith's 2XP | FFA #3 | MW2 & COD4 Maps | discord.gg/wogs [SNIPERS ONLY]",
+            "map": "mp_terminal",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "h2m-eu1.wraith.to",
+            "port": "27016",
+            "name": "[EU] Wraith's 2XP | Mosh Pit #1 | MW2 & COD4 Maps | discord.gg/wogs",
+            "map": "mp_bog_summer",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "h2m-eu2.wraith.to",
+            "port": "27017",
+            "name": "[EU] Wraith's 2XP | FFA #2 | MW2 & COD4 Maps | discord.gg/wogs",
+            "map": "mp_showdown",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "h2m-eu2.wraith.to",
+            "port": "27016",
+            "name": "[EU] Wraith's 2XP | FFA #1 | MW2 & COD4 Maps | discord.gg/wogs",
+            "map": "mp_pipeline",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "178.18.249.12",
+            "port": "27016",
+            "name": "[EU] Unser Kluengel | Domination | MW2 Maps | 2XP",
+            "map": "mp_invasion",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "67.240.74.140",
+            "port": "27016",
+            "name": "[US-NY] Braindead Idiot - TDM - Default - All MW2 Maps",
+            "map": "mp_rust",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "67.240.74.140",
+            "port": "27019",
+            "name": "[US-NY] Braindead Idiot - HP - Default - All MW2 Maps",
+            "map": "mp_rundown",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "67.240.74.140",
+            "port": "27020",
+            "name": "[US-NY] Braindead Idiot - Kill Confirmed - Default - All MW2 Maps",
+            "map": "mp_storm",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "67.240.74.140",
+            "port": "27017",
+            "name": "[US-NY] Braindead Idiot - FFA - Default - All MW2 Maps",
+            "map": "mp_fuel2",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "67.240.74.140",
+            "port": "27021",
+            "name": "[US-NY] Braindead Idiot - Infected - Default - All MW2 Maps",
+            "map": "mp_rundown",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "67.240.74.140",
+            "port": "27022",
+            "name": "[US-NY] Braindead Idiot - Gun Game - Default - All MW2 Maps",
+            "map": "mp_boneyard",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "109.199.98.99",
+            "port": "27016",
+            "name": "[EU/GER]  German Community | Map & Gamemode Voting | Classic MW2 Maps Only [2XP] HIGH PERFORMANCE #1",
+            "map": "mp_rundown",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "103.212.227.230",
+            "port": "27018",
+            "name": "[AU] Hosted by Streamline-Servers.com | War #2",
+            "map": "mp_rust",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "103.212.227.230",
+            "port": "27016",
+            "name": "[AU] Hosted by Streamline-Servers.com",
+            "map": "mp_subbase",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "95.164.89.213",
+            "port": "27016",
+            "name": "[EU] ONE SHOT ONE KILL | MIX MAPS & GAMEMODES | MAPVOTE | X2 XP",
+            "map": "mp_crash_snow",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "31.220.89.39",
+            "port": "27016",
+            "name": "[EU] RotatingModes  MWR-MW2 MAPS x2XP",
+            "map": "mp_crash",
+            "currentPlayers": 0,
+            "maxPlayers": 14
+        },
+        {
+            "ip": "31.56.7.52",
+            "port": "27016",
+            "name": "[EU/ITA]X2 XP ROTATION MAP&MODE|POWERED BY DELUXHOST.NET",
+            "map": "mp_crash",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "208.38.246.50",
+            "port": "27016",
+            "name": "Proxzy's MoshMix",
+            "map": "mp_abandon",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "66.234.95.214",
+            "port": "27016",
+            "name": "NA-EAST GreenerPastures FFA (MW+MW2 MAPS)",
+            "map": "mp_crash_snow",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "66.234.95.214",
+            "port": "27026",
+            "name": "NA-EAST GreenerPastures TDM 3v3 (RUST/SHIPMENT/TERMINAL)",
+            "map": "mp_terminal",
+            "currentPlayers": 0,
+            "maxPlayers": 6
+        },
+        {
+            "ip": "66.234.95.214",
+            "port": "27027",
+            "name": "NA-EAST GreenerPastures TDM v3 #2 (RUST/SHIPMENT/TERMINAL)",
+            "map": "mp_terminal",
+            "currentPlayers": 0,
+            "maxPlayers": 6
+        },
+        {
+            "ip": "66.234.95.214",
+            "port": "27025",
+            "name": "NA-EAST GreenerPastures GUN GAME (MW+MW2 MAPS)",
+            "map": "mp_carentan",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "66.234.95.214",
+            "port": "27024",
+            "name": "NA-EAST GreenerPastures Hardpoint (MW2 MAPS)",
+            "map": "mp_highrise",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "66.234.95.214",
+            "port": "27018",
+            "name": "NA-EAST GreenerPastures TDM (MW MAPS)",
+            "map": "mp_killhouse",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "66.234.95.214",
+            "port": "27019",
+            "name": "NA-EAST GreenerPastures DOM (MW2 MAPS)",
+            "map": "mp_compact",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "66.234.95.214",
+            "port": "27023",
+            "name": "NA-EAST GreenerPastures Hardpoint (MW maps)",
+            "map": "mp_crash",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "66.234.95.214",
+            "port": "27021",
+            "name": "NA-EAST GreenerPastures DOM (MW MAPS)",
+            "map": "mp_backlot",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "66.234.95.214",
+            "port": "27020",
+            "name": "NA-EAST GreenerPastures FFA RUST/SHIPMENT/TERMINAL",
+            "map": "mp_terminal",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "66.234.95.214",
+            "port": "27022",
+            "name": "NA-EAST GreenerPastures SND (MW+MW2)",
+            "map": "mp_shipment",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "2403:5807:1eb1:0:cd6e:3607:c298:e252",
+            "port": "27016",
+            "name": "SimonB252",
+            "map": "mp_highrise",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "154.53.42.186",
+            "port": "27017",
+            "name": "Lotus Servers | All Or Nothing | MW2 Maps",
+            "map": "mp_boneyard",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "154.53.42.186",
+            "port": "27019",
+            "name": "Lotus Servers | FFA [Customs] | MW2 Maps",
+            "map": "mp_favela",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "216.193.136.116",
+            "port": "27016",
+            "name": "[NA EAST] DevilizedGG's Ground War (DOM, KC, TDM)",
+            "map": "mp_backlot",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "eu.snrservers.com",
+            "port": "27024",
+            "name": "[EU] S&RSND Trickshot",
+            "map": "mp_derail",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "89.117.54.153",
+            "port": "27016",
+            "name": "EU | ReasonServers #1 | Map & Gamemode Mix | MW2/COD4  Maps XP",
+            "map": "mp_favela",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "ivyclub.ddns.net",
+            "port": "27017",
+            "name": "[EU/UK] IVY CLUB  [24/7 DOM]  | 2XP |  Non-HC",
+            "map": "mp_terminal",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "ivyclub.ddns.net",
+            "port": "27016",
+            "name": "[EU/UK] IVY CLUB  [24/7 S&D]  | 2XP |  Non-HC  | No Killstreaks",
+            "map": "mp_boneyard",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "209.182.227.138",
+            "port": "27019",
+            "name": "WEST COAST DOMINATION ALL MAPS",
+            "map": "mp_citystreets",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "209.182.227.138",
+            "port": "27020",
+            "name": "WEST COAST KILL CONFIRMED ALL MAPS",
+            "map": "mp_shipment",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "209.182.227.138",
+            "port": "27018",
+            "name": "WEST COAST DOMINATION BEST MAPS",
+            "map": "mp_boneyard",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "209.182.227.138",
+            "port": "27017",
+            "name": "WEST COAST HARDPOINT ALL MAPS",
+            "map": "mp_boneyard",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "localhost",
+            "port": "27017",
+            "name": "Twitter @ObeyAlliance | FreakShotters United",
+            "map": "mp_estate",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "localhost",
+            "port": "27016",
+            "name": "@Torrq_ & @BadKidWZ Wrld | Best Maps 24/7 | Snipers Only",
+            "map": "mp_bog",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "103.195.100.207",
+            "port": "29737",
+            "name": "MANIACOS SHIPMENT",
+            "map": "mp_shipment",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "103.195.100.207",
+            "port": "29736",
+            "name": "MANIACOS MIX",
+            "map": "mp_convoy",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "45.249.117.23",
+            "port": "27013",
+            "name": "[AU/NZ] Snowstorm Gaming [TRICKSHOTTING] [4XP] [VOTEMAP] MW2 Maps Only",
+            "map": "mp_favela",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "45.249.117.23",
+            "port": "27015",
+            "name": "[AU/NZ] Snowstorm Gaming [S&D] [4XP] [VOTEMAP] MW2 Maps Only",
+            "map": "mp_brecourt",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "45.249.117.23",
+            "port": "27011",
+            "name": "[AU/NZ] Snowstorm Gaming [FFA] [4XP] [VOTEMAP]",
+            "map": "mp_quarry",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "45.249.117.23",
+            "port": "27014",
+            "name": "[AU/NZ] Snowstorm Gaming [TDM] [4XP] [VOTEMAP]",
+            "map": "mp_storm",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "45.249.117.23",
+            "port": "27012",
+            "name": "[AU/NZ] Snowstorm Gaming [VARIETY] [4XP] [VOTEMAP]",
+            "map": "mp_farm_spring",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "foss.family",
+            "port": "27015",
+            "name": "~~~~~ foss.family | Nostalgia trip ~~~~~",
+            "map": "mp_trailerpark",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "154.12.244.58",
+            "port": "27019",
+            "name": "[NA-WEST] Mixed Gamemodes MW2/MWR |Triple-A #4| Map/Mode Voting 24/7! x2 XP",
+            "map": "mp_backlot",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "154.12.244.58",
+            "port": "27018",
+            "name": "[NA-WEST] HP/DOM/TDM |Triple-A #2| 24/7 Map Voting - x2 XP",
+            "map": "mp_nightshift",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "154.12.244.58",
+            "port": "27016",
+            "name": "[NA-WEST] |Triple-A| Dom/TDM Map Voting 24/7! x2 XP",
+            "map": "mp_checkpoint",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "185.172.175.26",
+            "port": "27016",
+            "name": "[EU] Hardpoint - BEST MW2 MAPS - MAPVOTE - 2XP WEEKEND",
+            "map": "mp_quarry",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "2600:6c44:113f:c500:f010:b64a:e355:8ca4",
+            "port": "27016",
+            "name": "fawn.gg | NA-C |  All Maps Mode Rotation",
+            "map": "mp_convoy",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "5.161.253.93",
+            "port": "27018",
+            "name": "ProReborn's  MW2/CoD4 Favorites  DOM Only",
+            "map": "mp_killhouse",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "5.161.253.93",
+            "port": "27022",
+            "name": "ProReborn's Ground War  Small Map Mayhem  DOM Only  Sponsored By @Jexeo",
+            "map": "mp_trailerpark",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "5.161.253.93",
+            "port": "27023",
+            "name": "ProReborn's Ground War  CoD4/MW2 Favorites  DOM Only #2",
+            "map": "mp_bog_summer",
+            "currentPlayers": 0,
+            "maxPlayers": 16
+        },
+        {
+            "ip": "5.161.253.93",
+            "port": "27017",
+            "name": "ProReborn's  Favorite Medium Sized Maps!  CoD4/MW2 DOM Only",
+            "map": "mp_bog_summer",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "5.161.253.93",
+            "port": "27016",
+            "name": "ProReborn's Ground War  CoD4/MW2 Favorites  DOM Only",
+            "map": "mp_subbase",
+            "currentPlayers": 0,
+            "maxPlayers": 16
+        },
+        {
+            "ip": "5.161.253.93",
+            "port": "27021",
+            "name": "ProReborn's Ground War  Beachbog 24/7  DOM Only",
+            "map": "mp_bog_summer",
+            "currentPlayers": 0,
+            "maxPlayers": 16
+        },
+        {
+            "ip": "213.165.88.140",
+            "port": "27016",
+            "name": "[EU/UK] INFINITY NETWORKS CLASSIC MW2 - DOM",
+            "map": "mp_underpass",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "154.12.225.217",
+            "port": "27016",
+            "name": "[NA Central]^; Ascended Networks | Objective Gamemodes |^; Double XP",
+            "map": "mp_nightshift",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "45.62.160.81",
+            "port": "27016",
+            "name": "@Brudders FFA [TRICKSHOT LAST OR BAN]",
+            "map": "mp_subbase",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "74.91.114.130",
+            "port": "27016",
+            "name": "[USA] Playmates FFA - Kill Streaks Off - XP",
+            "map": "mp_highrise",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "172.174.225.237",
+            "port": "27016",
+            "name": "ARC S1 /7 Domination [US-East] [v6] // COD4 & MW2 Best Maps",
+            "map": "mp_crash",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "172.174.225.237",
+            "port": "27017",
+            "name": "ARC S2 /7 Domination [US-East] [v6] // Rust",
+            "map": "mp_rust",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "172.174.225.237",
+            "port": "27018",
+            "name": "ARC S3 /7 Domination [US-East] [v6] // Killhouse",
+            "map": "mp_killhouse",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "135.125.140.177",
+            "port": "27016",
+            "name": "RageMachine TDM Server",
+            "map": "mp_killhouse",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "46.105.42.54",
+            "port": "27017",
+            "name": "[EU/FR] LUL.TF | Terminal 24/7 Domination | 2XP",
+            "map": "mp_terminal",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "46.105.42.54",
+            "port": "27016",
+            "name": "[EU/FR] LUL.TF | FFA | MW2 MAPS | 2XP",
+            "map": "mp_brecourt",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "82.153.70.154",
+            "port": "27018",
+            "name": "EU | unko #1 | Domination | MW2 Maps | NO STUNS/TUBES | 2XP",
+            "map": "mp_abandon",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "cambergang.de",
+            "port": "27017",
+            "name": "OG SND TRICKSHOT NO BARRIERS",
+            "map": "mp_overgrown",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "70.34.218.64",
+            "port": "27016",
+            "name": "[EU/SWE] H2MServers.se | DOMINATION 24/7 | 2XP",
+            "map": "mp_boneyard",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "h2m.sinist3r.lol",
+            "port": "37022",
+            "name": "EU | $inist3r #3 | Domination | MW2 & COD4 Maps | x2 EXP | No Killstreaks",
+            "map": "mp_subbase",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "h2m.sinist3r.lol",
+            "port": "37020",
+            "name": "EU | $inist3r #1 | TDM | MW2/COD4 Maps | x2 EXP | No Killstreaks",
+            "map": "mp_countdown",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "h2m.sinist3r.lol",
+            "port": "37025",
+            "name": "EU | $inist3r #6 | FFA | Best maps | x2 EXP | Sniper Only",
+            "map": "mp_shipment",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "h2m.sinist3r.lol",
+            "port": "37024",
+            "name": "EU | $inist3r #5 | FFA | Best maps | x2 EXP | Sniper Only",
+            "map": "mp_terminal",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "h2m.sinist3r.lol",
+            "port": "37023",
+            "name": "EU | $inist3r #4 | Domination | MW2 & COD4 Maps | x2 EXP | No Killstreaks",
+            "map": "mp_subbase",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "h2m.sinist3r.lol",
+            "port": "37021",
+            "name": "EU | $inist3r #2 | TDM | MW2/COD4 Maps | x2 EXP | No Killstreaks",
+            "map": "mp_countdown",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "82.197.67.157",
+            "port": "27016",
+            "name": "SictionArcs Fun House | No Snipers | No Nukes | No Thumper | 2x Xp | Have Fun",
+            "map": "mp_bloc",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "thebandoeast.us.to",
+            "port": "27015",
+            "name": "The Bando FFA #1 USA",
+            "map": "mp_underpass",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "thebandoeast.us.to",
+            "port": "27016",
+            "name": "The Bando TDM #1 USA",
+            "map": "estate",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "109.230.227.114",
+            "port": "6969",
+            "name": "[EU] epic GAMING server xd | Skidrow SND 24/7 | x2 XP",
+            "map": "mp_nightshift",
+            "currentPlayers": 0,
+            "maxPlayers": 16
+        },
+        {
+            "ip": "51.81.201.232",
+            "port": "27016",
+            "name": "[NA CENTRAL] | OpsCord Network | COD4/MW2 Maps XP USA",
+            "map": "mp_rust",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "139.177.152.72",
+            "port": "27016",
+            "name": "L3fty's War Room |Vanilla TDM/KC | discord.gg/EQkNJJbEwG",
+            "map": "mp_estate",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "84.247.180.14",
+            "port": "27017",
+            "name": "[ESP-EU] Servidor H2M-ESP! - H2MESP - GUN GAME",
+            "map": "mp_favela",
+            "currentPlayers": 0,
+            "maxPlayers": 16
+        },
+        {
+            "ip": "84.247.180.14",
+            "port": "27016",
+            "name": "[ESP-EU] Servidor H2M-ESP! - H2MESP - DM , WAR , DOM - EU",
+            "map": "mp_subbase",
+            "currentPlayers": 0,
+            "maxPlayers": 16
+        },
+        {
+            "ip": "154.38.178.7",
+            "port": "27018",
+            "name": "[US-EAST] Sabs Hotdog Shack #3 | MWR/MW2 TDM/KC/HQ/HP/DOM [X2 XP] SNIPERS DISABLED",
+            "map": "mp_invasion",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "154.38.178.7",
+            "port": "27017",
+            "name": "[US-EAST] Sabs Hotdog Shack #2 | MWR/MW2 24/7 SnD No Killstreaks![X2 XP]",
+            "map": "mp_brecourt",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "172.118.79.76",
+            "port": "27016",
+            "name": "[US] Sayonarabye's Domination Rust And Shipment 2XP 24/7",
+            "map": "mp_shipment",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "188.64.33.38",
+            "port": "5089",
+            "name": "[HGM] Private",
+            "map": "mp_rust",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "188.64.33.38",
+            "port": "5085",
+            "name": "[HGM] Small Maps 24/7",
+            "map": "mp_showdown",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "188.64.33.38",
+            "port": "5090",
+            "name": "[HGM] Terminal 24/7",
+            "map": "mp_terminal",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "188.64.33.38",
+            "port": "5086",
+            "name": "[HGM] FFA",
+            "map": "mp_trailerpark",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "185.249.225.191",
+            "port": "27026",
+            "name": "[EU] noMercy | DOUBLE XP | 50/50 BOTS/PLAYERS | NO KILLSTREAKS | RUST ONLY",
+            "map": "mp_rust",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "134.255.225.188",
+            "port": "27016",
+            "name": "[EU] pznull's Community Server | Classic MW2 Maps | Domination #1 | x2 XP",
+            "map": "mp_derail",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "134.255.225.188",
+            "port": "27020",
+            "name": "[EU] pznull's Community Server | Classic MW2 Maps | Domination #4 HC | x2 XP",
+            "map": "mp_quarry",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "134.255.225.188",
+            "port": "27018",
+            "name": "[EU] pznull's Community Server | Terminal 24/7 | Domination #3 | x2 XP",
+            "map": "mp_terminal",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "poglandia.hopto.org",
+            "port": "27016",
+            "name": "Dom Only 24/7",
+            "map": "mp_crossfire",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "45.67.84.96",
+            "port": "27017",
+            "name": "[EU] Zelta's Best Maps [No Killstreaks]",
+            "map": "mp_countdown",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "185.206.151.253",
+            "port": "28901",
+            "name": "[EU] GilletteClan  | Rustment XP",
+            "map": "mp_shipment",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "185.206.151.253",
+            "port": "28902",
+            "name": "[EU] GilletteClan  | COD Jumper",
+            "map": "boneyard",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "185.206.151.253",
+            "port": "28900",
+            "name": "[EU] GilletteClan  | FFA - MWR / MW2 Maps XP",
+            "map": "mp_bloc",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "92.220.11.60",
+            "port": "27016",
+            "name": "[EU] BDGS [SABOTAGE] (24/7)",
+            "map": "mp_crash_snow",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "94.197.148.228",
+            "port": "27016",
+            "name": "[SCOTLAND] TDM/DOM/KC | Yer maws fav server | BOTS",
+            "map": "mp_rundown",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "45.90.122.210",
+            "port": "27016",
+            "name": "[EU/GER] DOMINATION/TDM/HARDPOINT (EXTENDED) | BEST MAPS 24/7 | DOUBLE XP & MAPVOTE ON!",
+            "map": "mp_nightshift",
+            "currentPlayers": 0,
+            "maxPlayers": 16
+        },
+        {
+            "ip": "45.61.162.36",
+            "port": "27020",
+            "name": "[US] CWS | Best Maps DOM/HP",
+            "map": "mp_broadcast",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "45.61.162.36",
+            "port": "27023",
+            "name": "[US] CWS | Best Maps TDM #2",
+            "map": "mp_showdown",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "45.61.162.36",
+            "port": "27022",
+            "name": "[US] CWS | Best Maps TDM",
+            "map": "mp_killhouse",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "45.61.162.36",
+            "port": "27025",
+            "name": "[US] CWS | Best Maps DOM/HP #4",
+            "map": "mp_brecourt",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "45.61.162.36",
+            "port": "27029",
+            "name": "[US] THE MILTIA",
+            "map": "mp_terminal",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "45.61.162.36",
+            "port": "27021",
+            "name": "[US] CWS | Best Maps TDM/KC",
+            "map": "mp_afghan",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "45.61.162.36",
+            "port": "27024",
+            "name": "[US] CWS | Best Maps FFA",
+            "map": "mp_favela",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "45.61.162.36",
+            "port": "27026",
+            "name": "[US] CWS | Best Maps TDM/KC #2",
+            "map": "mp_broadcast",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "45.61.162.36",
+            "port": "27028",
+            "name": "[US] CWS | Rydog FFA",
+            "map": "mp_nightshift",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "104.225.131.162",
+            "port": "27019",
+            "name": "[US-East] @SaintsSanctum Servers [FFA 2XP] <TRICKSHOT> (MW2 MAPS)",
+            "map": "mp_compact",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "104.225.131.162",
+            "port": "27017",
+            "name": "[US-East] @SaintsSanctum Servers [DOM 2XP] (MW2 MAPS)",
+            "map": "mp_fuel2",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "104.225.131.162",
+            "port": "27016",
+            "name": "[US-East] @SaintsSanctum Servers [DOM 2XP] (MW2/COD4 MAPS)",
+            "map": "mp_shipment",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "104.225.131.162",
+            "port": "27020",
+            "name": "[US-East] @SaintsSanctum Servers [GUN GAME 2XP] (MW2/COD4 MAPS)",
+            "map": "mp_underpass",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "104.225.131.162",
+            "port": "27018",
+            "name": "[US-East] @SaintsSanctum Servers [FFA 2XP] <REGULAR> (MW2/COD4 MAPS)",
+            "map": "mp_trailerpark",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "88.99.153.148",
+            "port": "27016",
+            "name": "H2m - TDM",
+            "map": "mp_farm_spring",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "216.120.203.26",
+            "port": "27025",
+            "name": "[US] ROCEAN | BEST MAPS DOM",
+            "map": "mp_showdown",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "216.120.203.26",
+            "port": "27016",
+            "name": "[US] ROCEAN | BEST MAPS KC",
+            "map": "mp_cargoship",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "zedkaysserver.co.uk",
+            "port": "27030",
+            "name": "[EU/UK] ZedkaysServer | FFA Trickshotting",
+            "map": "mp_favela",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "67.149.68.59",
+            "port": "27016",
+            "name": "Smooves Server (MW2 DLC + MWR + AW MAPS)(AW MAPS: tinyurl.com/shakinAW)",
+            "map": "mp_afghan",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "148.135.76.60",
+            "port": "27016",
+            "name": "[Sunsets Hosting][US-WEST LOS ANGELES] DOM/TDM MWR/MW2 MAPS - 2X XP",
+            "map": "mp_checkpoint",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "70.48.95.209",
+            "port": "27018",
+            "name": "[NA EAST] ITG #02 | Search and Destroy Only | ALL MW2 MAPS | XP",
+            "map": "mp_subbase",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "191.96.225.17",
+            "port": "27017",
+            "name": "[BR] - KVRA Club | RUST/SHIPMENT | TDM/DOM | discord.gg/XJFTgUBTaX #2",
+            "map": "mp_rust",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "191.96.225.17",
+            "port": "27030",
+            "name": "[BR] - KVRA Club | TERMINAL 24/7 | TDM | discord.gg/XJFTgUBTaX #3",
+            "map": "mp_terminal",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "191.96.225.17",
+            "port": "27022",
+            "name": "[BR] - KVRA Club | MW2 BEST MAPS | GUN GAME | discord.gg/XJFTgUBTaX #5",
+            "map": "mp_bloc",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "191.96.225.17",
+            "port": "27019",
+            "name": "[BR] - KVRA Club | MWR/MW2 MAPS | TDM | discord.gg/XJFTgUBTaX #4",
+            "map": "mp_estate",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "191.96.225.17",
+            "port": "27016",
+            "name": "[BR] - KVRA Club | MWR MAPS | TDM | discord.gg/XJFTgUBTaX #1",
+            "map": "mp_farm_spring",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "149.202.89.208",
+            "port": "27018",
+            "name": "NamelessNoobs TDM [EU]",
+            "map": "mp_citystreets",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "51.81.110.227",
+            "port": "27021",
+            "name": "NamelessNoobs Free for All",
+            "map": "mp_bloc",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "51.81.110.227",
+            "port": "27015",
+            "name": "NamelessNoobs TDM",
+            "map": "mp_trailerpark",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "51.81.110.227",
+            "port": "27017",
+            "name": "NamelessNoobs S&D",
+            "map": "mp_farm",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "51.81.110.227",
+            "port": "27019",
+            "name": "NamelessNoobs Best Maps",
+            "map": "mp_backlot",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "107.146.228.169",
+            "port": "27019",
+            "name": "CarrotHosting Mixed Modes  (MW2+MWR Maps) 2XP #2",
+            "map": "mp_pipeline",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "107.146.228.169",
+            "port": "27017",
+            "name": "CarrotHosting Search & Destroy (MW2 Maps)",
+            "map": "mp_complex",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "107.146.228.169",
+            "port": "27016",
+            "name": "CarrotHosting All Maps Dom 2XP",
+            "map": "mp_rust",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "107.146.228.169",
+            "port": "27018",
+            "name": "CarrotHosting Mixed Modes  (MW2+MWR Maps) 2XP",
+            "map": "mp_pipeline",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "ams.hwit.uk",
+            "port": "27017",
+            "name": "DOCTORS TDM SNIPER BEST MAPS",
+            "map": "mp_highrise",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "ams.hwit.uk",
+            "port": "27016",
+            "name": "DOCTORS Scrim Server",
+            "map": "mp_rust",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "fuckactivision.ghillie.games",
+            "port": "27016",
+            "name": "NA WEST  2XP NovaGhillie MW/MW2 MAPS NO RESERVED SLOTS",
+            "map": "mp_crossfire",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "63.229.79.68",
+            "port": "27016",
+            "name": "[NA-WEST] Gerghub | CoD4/MW2 Maps | TDM, DOM, KC | LONG ROUNDS | [x2XP]",
+            "map": "mp_showdown",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "47.186.228.188",
+            "port": "27029",
+            "name": "[US] MTS Dallas #5 | S&D v9 | x XP",
+            "map": "mp_invasion",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "47.186.228.188",
+            "port": "27028",
+            "name": "[US] MTS Dallas #2 | TDM v9 | Rust + Terminal | x XP",
+            "map": "mp_terminal",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "47.186.228.188",
+            "port": "27032",
+            "name": "[US] MTS Dallas #3 | DOM v9 | All Maps | x XP",
+            "map": "mp_subbase",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "108.181.154.183",
+            "port": "27016",
+            "name": "[R Official] Odines Playhouse Rustment /7| 2XP",
+            "map": "mp_rust",
+            "currentPlayers": 0,
+            "maxPlayers": 14
+        },
+        {
+            "ip": "162.250.191.81",
+            "port": "27016",
+            "name": "Egg's Trickshot Server",
+            "map": "mp_boneyard",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "116.202.156.245",
+            "port": "27017",
+            "name": "[EU] MW2 Remasterd NO SNIPER[24/7|x2 XP]",
+            "map": "mp_quarry",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "116.202.156.245",
+            "port": "27180",
+            "name": "[EU] MW2 Remasterd SRV2[24/7|x2 XP]",
+            "map": "mp_rundown",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "116.202.156.245",
+            "port": "27182",
+            "name": "[EU] MW2 Remasterd SRV3[24/7|x2 XP]",
+            "map": "mp_strike",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "116.202.156.245",
+            "port": "27023",
+            "name": "[EU] MW2 Remasterd SRV4[24/7|x2 XP]",
+            "map": "mp_rundown",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "24.113.199.159",
+            "port": "27021",
+            "name": "[NA-WEST] | rfgm.co | [DOM] | 2XP | COD4+MW2 | Max Players",
+            "map": "mp_rust",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "24.113.199.159",
+            "port": "27020",
+            "name": "[NA-WEST] | rfgm.co | [FFA] | 2XP | COD4+MW2",
+            "map": "mp_vacant",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "24.113.199.159",
+            "port": "27019",
+            "name": "[NA-WEST] | rfgm.co | [FFA] | 2XP | COD4+MW2 | Max Players",
+            "map": "mp_brecourt",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "73.16.14.185",
+            "port": "27016",
+            "name": "insane epic gaming",
+            "map": "mp_backlot",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "103.85.37.115",
+            "port": "27018",
+            "name": "[AU] Lethal Gaming | TDM/DOM/HP | SHIPMENT/RUST/KILLHOUSE [24/7] [XP]",
+            "map": "mp_killhouse",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "103.85.37.115",
+            "port": "27017",
+            "name": "[AU] Lethal Gaming | TDM/DOM/HP v6 | MW2 VOTEMAP [24/7] [XP]",
+            "map": "mp_rundown",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "159.196.128.63",
+            "port": "27021",
+            "name": "[AU] - Xevnet - ALL VOTEMAP - MWCR ONLY | XP - https://xevnet.au",
+            "map": "oilrig",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "159.196.128.63",
+            "port": "27018",
+            "name": "[AU] - Xevnet - SD CLASSIC - MW2/MWR | XP - https://xevnet.au",
+            "map": "mp_bog",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "159.196.128.63",
+            "port": "27017",
+            "name": "[AU] - Xevnet - TDM/FFA VOTEMAP - MW2/MWR | XP - https://xevnet.au",
+            "map": "mp_backlot",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "159.196.128.63",
+            "port": "27019",
+            "name": "[AU] - Xevnet - OBJ VOTEMAP - BEST OF MW2/MWR | XP - https://xevnet.au",
+            "map": "mp_terminal",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "159.196.128.63",
+            "port": "27016",
+            "name": "[AU] - Xevnet - KC/TDM VOTEMAP - MW2 | XP - https://xevnet.au",
+            "map": "mp_underpass",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "159.196.128.63",
+            "port": "27020",
+            "name": "[AU] - Xevnet - DOM - SHIPMENT / KILLHOUSE / RUST | XP - /7 - https://xevnet.au",
+            "map": "mp_shipment",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "154.26.157.90",
+            "port": "27035",
+            "name": "[AU] Dynasty | Sniper Only FFA | Best Maps",
+            "map": "mp_countdown",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "141.94.106.77",
+            "port": "27022",
+            "name": "[NL] Server [Domination MW2 ONLY MAPS]",
+            "map": "mp_fuel2",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "141.94.106.77",
+            "port": "27017",
+            "name": "[NL] Server [TDM MW2 ALL NEW MAPS]",
+            "map": "mp_quarry",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "141.94.106.77",
+            "port": "27021",
+            "name": "[NL] Server [Domination MW2 ALL NEW MAPS]",
+            "map": "mp_fuel2",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "141.94.106.77",
+            "port": "27018",
+            "name": "[NL] Server [TDM MW2 ALL NEW MAPS]",
+            "map": "mp_rundown",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "178.192.63.44",
+            "port": "27018",
+            "name": "[EU]Prime-Gaming Server | Map Voting | COD4/MW2 Maps XP EU #2",
+            "map": "mp_overgrown",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "178.192.63.44",
+            "port": "27016",
+            "name": "[EU]Prime-Gaming Server | Map Voting | COD4/MW2 Maps XP EU #1",
+            "map": "mp_shipment",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "5.78.105.247",
+            "port": "27016",
+            "name": "[NA-WEST] KEKW *SNIPERS ONLY* | TERMINAL/SCRAPYARD NO STREAKS",
+            "map": "mp_terminal",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "5.78.105.247",
+            "port": "27018",
+            "name": "[NA-WEST] KEKW *SNIPERS ONLY* | RUSTMENT NO STREAKS",
+            "map": "mp_rust",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "141.94.32.101",
+            "port": "27022",
+            "name": "[EU/UK] | H2M-FR | FFA | ONLY SNIPER 24/7 | XP | #6",
+            "map": "mp_terminal",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "141.94.32.101",
+            "port": "27021",
+            "name": "[EU/UK] | H2M-FR | DOM | TERMINAL 24/7 | XP | #7",
+            "map": "mp_overgrown",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "69.197.142.207",
+            "port": "27016",
+            "name": "[NA-CENTRAL] YahMammas Bedroom [DOM-24/7] [2XP] [Best Maps+ Map Vote]",
+            "map": "mp_estate",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "185.172.175.23",
+            "port": "27016",
+            "name": "[UK|EU] 6v6 Domination | MW2 Maps [2xp]",
+            "map": "mp_invasion",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "185.234.72.161",
+            "port": "5555",
+            "name": "EU Up-Vault TDM/DM/More/GOOD/MAPS XP",
+            "map": "mp_highrise",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "38.242.136.82",
+            "port": "27016",
+            "name": "^ - ^ | domination | mw2 maps | 2x xp | eu",
+            "map": "mp_checkpoint",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "45.77.106.147",
+            "port": "27016",
+            "name": "[NA EAST] pubs.gg | 24/7 Terminal (10K SCORE) | x2 XP! | NO KILLSTREAKS",
+            "map": "mp_terminal",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "205.234.146.112",
+            "port": "27017",
+            "name": "[US/UTAH]  Pootis Network | Rustyard Ship | 2x XP | TS3 @ 46.8.231.240",
+            "map": "mp_boneyard",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "195.181.157.19",
+            "port": "27018",
+            "name": "[EU] Kool Kids Klub | Rustment 24/7 | FASTLVL | XP #2",
+            "map": "mp_shipment",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "195.181.157.19",
+            "port": "27016",
+            "name": "[EU] Kool Kids Klub | Best Maps | COD4 & MW2 Maps | XP #1",
+            "map": "mp_convoy",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "195.181.157.19",
+            "port": "27017",
+            "name": "[EU] Kool Kids Klub | Free For All | COD4 & MW2 Maps | XP  #3",
+            "map": "mp_complex",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "45.83.245.220",
+            "port": "27185",
+            "name": "{*__*} Headquarters discord.gg/Y72jucdUaa",
+            "map": "mp_nightshift",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "ulow.lol",
+            "port": "27007",
+            "name": "[uLow.lol]{TDM | DOM | FFA | SND | KC | GUN}(MW2CR)<VOTE | 2XP | EU | 24/7 | #7>",
+            "map": "oilrig",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "ulow.lol",
+            "port": "27001",
+            "name": "[uLow.lol]{TDM | DOM | FFA}(MWR | MW2)<VOTE | 2XP | EU | 24/7 | #1>",
+            "map": "mp_showdown",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "ulow.lol",
+            "port": "27006",
+            "name": "[uLow.lol]{GUN | SAB | HQ}(MWR | MW2)<VOTE | 2XP | EU | 24/7 | #6>",
+            "map": "mp_convoy",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "ulow.lol",
+            "port": "27003",
+            "name": "[uLow.lol]{SND | HP | KC}(MWR | MW2)<VOTE | 2XP | EU | 24/7 | #3>",
+            "map": "mp_compact",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "ulow.lol",
+            "port": "27002",
+            "name": "[uLow.lol]{TDM | DOM | FFA}(MWR | MW2)<VOTE | 2XP | EU | 24/7 | #2>",
+            "map": "mp_overgrown",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "45.134.222.10",
+            "port": "27017",
+            "name": "[GR4X] SND Sniper",
+            "map": "mp_crash",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "45.134.222.10",
+            "port": "27016",
+            "name": "[GR4X] Rust FFA Sniper",
+            "map": "mp_rust",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "h2m.ashes.wtf",
+            "port": "27021",
+            "name": "[R] [NA-S] | Ashes DOM 9v9 #2 XP",
+            "map": "mp_complex",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "h2m.ashes.wtf",
+            "port": "27022",
+            "name": "[R] [NA-S] | Ashes DOM 6v6 XP",
+            "map": "mp_afghan",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "h2m.ashes.wtf",
+            "port": "27024",
+            "name": "[R] [NA-S] | Ashes SnD 6v6 RD XP",
+            "map": "mp_complex",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "h2m.ashes.wtf",
+            "port": "27016",
+            "name": "[R] [NA-S] | Ashes SnD 9v9 XP",
+            "map": "mp_complex",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "h2m.ashes.wtf",
+            "port": "27020",
+            "name": "[R] [NA-S] | Ashes DOM 6v6 XP",
+            "map": "mp_convoy",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "h2m.ashes.wtf",
+            "port": "27025",
+            "name": "[R] [NA-S] | Ashes SnD 9v9 HC 6RD XP",
+            "map": "mp_backlot",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "h2m.ashes.wtf",
+            "port": "27018",
+            "name": "[R] [NA-S] | Ashes GunGame XP",
+            "map": "mp_derail",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "h2m.ashes.wtf",
+            "port": "27023",
+            "name": "[R] [NA-S] | Ashes SnD 9v9 #2 XP",
+            "map": "mp_complex",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "h2m.ashes.wtf",
+            "port": "27017",
+            "name": "[R] [NA-S] | Ashes DOM 9v9 XP",
+            "map": "mp_nightshift",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "h2m.ashes.wtf",
+            "port": "27019",
+            "name": "[R] [NA-S] | Ashes SnD 6v6 XP",
+            "map": "mp_backlot",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "2a01:cb1c:b91:6b00:d7f5:8462:77e7:d03c",
+            "port": "28016",
+            "name": "COD:OG H2M GROUNDWAR",
+            "map": "mp_crash",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "2a01:cb1c:b91:6b00:d7f5:8462:77e7:d03c",
+            "port": "28017",
+            "name": "COD:OG H2M SHIP|RUST|HOUSE",
+            "map": "mp_killhouse",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "45.90.12.150",
+            "port": "27021",
+            "name": "NAE BLACKPULSE DOMINATION (SNIPERS ONLY)",
+            "map": "mp_trailerpark",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "45.90.12.150",
+            "port": "27017",
+            "name": "NAE BLACKPULSE RAW SHIPMENT 24/7",
+            "map": "mp_shipment",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "45.90.12.150",
+            "port": "27016",
+            "name": "NAE BLACKPULSE RAW TERMINAL 24/7",
+            "map": "mp_terminal",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "45.90.12.150",
+            "port": "27020",
+            "name": "NAE BLACKPULSE RAW DOMINATION MIX (NO SNIPERS)",
+            "map": "mp_crash",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "45.90.12.150",
+            "port": "27019",
+            "name": "NAE BLACKPULSE RAW TDM MIX (NO SNIPERS)",
+            "map": "mp_countdown",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "108.61.206.221",
+            "port": "27016",
+            "name": "[NA-WEST] | $hmoney | SND | FORCED SNIPERS ONLY | ANTI-CAMP | 7v7 #1",
+            "map": "mp_convoy",
+            "currentPlayers": 0,
+            "maxPlayers": 14
+        },
+        {
+            "ip": "108.61.206.221",
+            "port": "27018",
+            "name": "[NA-WEST] | $hmoney | FFA | FORCED SNIPERS ONLY | ANTI-CAMP | Bots | Small Maps",
+            "map": "mp_crossfire",
+            "currentPlayers": 0,
+            "maxPlayers": 10
+        },
+        {
+            "ip": "185.251.232.154",
+            "port": "27017",
+            "name": "[UK] MW2 Classic Maps - S&D (cooperative.one)",
+            "map": "mp_rust",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "185.251.232.154",
+            "port": "27016",
+            "name": "[UK] MW2 Classic Maps - FFA (cooperative.one)",
+            "map": "mp_highrise",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "98.18.46.84",
+            "port": "47016",
+            "name": "[NA-EAST] | x2 XP TDM/DOM/KC | ALL MAPS | VETERAN BOTS | HIGHER SCORE LIMIT | MAP VOTES",
+            "map": "mp_vacant",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "98.18.46.84",
+            "port": "47017",
+            "name": "[NA-EAST] | x2 XP HARD CORE TDM/DOM/KC | ALL MAPS | VETERAN BOTS | HIGHER SCORE LIMIT | MAP VOTES",
+            "map": "mp_broadcast",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "162.156.119.52",
+            "port": "27018",
+            "name": "[WEST] Bdogg493 Paradise | Bots | Rustment",
+            "map": "mp_shipment",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "162.156.119.52",
+            "port": "27017",
+            "name": "[WEST] Bdogg493 Paradise | Bots | MW1 Maps | Vote",
+            "map": "mp_convoy",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "162.156.119.52",
+            "port": "27016",
+            "name": "[WEST] Bdogg493 Paradise | Bots | MW2 Maps | Vote",
+            "map": "mp_checkpoint",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "104.13.194.12",
+            "port": "27017",
+            "name": "USA | [Jammers Hellscape] | Shipment/Rust DOM Lobby 1",
+            "map": "mp_overgrown",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "104.13.194.12",
+            "port": "27016",
+            "name": "USA | [Jammers Hellscape] | DOM/TDM/HQ MapVote",
+            "map": "mp_fuel2",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "139.177.152.75",
+            "port": "27016",
+            "name": "@iSageHere: Vanilla FFA Trickshotting!",
+            "map": "mp_subbase",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "2.56.166.94",
+            "port": "27023",
+            "name": "HaZeyNetwork | Map & Gamemode Voting | MW2/&9CR/COD4 Maps  2XP USA #3",
+            "map": "mp_crash",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "2.56.166.94",
+            "port": "27022",
+            "name": "HaZeyNetwork | Map & Gamemode Voting | COD4/MW2/CR Maps  2XP USA #2",
+            "map": "mp_complex",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "2.56.166.94",
+            "port": "27024",
+            "name": "HaZeyNetwork | Gun Game | Map Voting | COD4/MW2/CR Maps  2XP USA",
+            "map": "mp_fuel2",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "2.56.166.94",
+            "port": "27021",
+            "name": "HaZeyNetwork | Map & Gamemode Voting | COD4/MW2/CR Maps  2XP USA #1",
+            "map": "oilrig",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "141.11.104.9",
+            "port": "27016",
+            "name": "ESM Trickshot",
+            "map": "mp_checkpoint",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "167.88.170.227",
+            "port": "27016",
+            "name": "[NA-C] Vital H2M 24/7 | ALL AW/MWR/MW2/CR MAPS/MODES | 2XP & MAP VOTING",
+            "map": "mp_highrise",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "46.4.84.235",
+            "port": "27016",
+            "name": "Untouchable|MW2|TrickShot Lobbies|Estate|Favela|Highrise|Terminal|Quarry|Subbase|Underpass",
+            "map": "mp_boneyard",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "46.4.84.235",
+            "port": "27017",
+            "name": "Untouchable|MW2|^SNDLOBBIES|X2 XP",
+            "map": "mp_rust",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "102.132.136.190",
+            "port": "27016",
+            "name": "[ZA] S&D / MW2 Maps / XP",
+            "map": "mp_brecourt",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "102.132.136.190",
+            "port": "27017",
+            "name": "[ZA] Mosh Pit / MW2 Maps / XP",
+            "map": "mp_broadcast",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "207.211.165.30",
+            "port": "27017",
+            "name": "[US] Parakeets H2M [/7 DOM XP] #2",
+            "map": "mp_pipeline",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "207.211.165.30",
+            "port": "27016",
+            "name": "[US] Parakeets H2M [/7 DOM XP] #1",
+            "map": "mp_showdown",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "2.56.254.17",
+            "port": "27017",
+            "name": "[US] Cloudscape Private TDM  #1 | NYC",
+            "map": "mp_afghan",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "103.51.114.176",
+            "port": "27017",
+            "name": "(AU) Aussie Battlers 24/7 FFA x2XP (!MapVote !MOAB !Bots)",
+            "map": "mp_killhouse",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "103.62.51.222",
+            "port": "27026",
+            "name": "Australia East Coast - Vanilla Server",
+            "map": "mp_afghan",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "192.157.29.106",
+            "port": "27030",
+            "name": "kat-net | MWR Maps ONLY DOMINATION S2",
+            "map": "mp_crash_snow",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "204.13.236.91",
+            "port": "27021",
+            "name": "Kat-Net | HardPoint S3",
+            "map": "mp_boneyard",
+            "currentPlayers": 0,
+            "maxPlayers": 16
+        },
+        {
+            "ip": "192.157.29.106",
+            "port": "27029",
+            "name": "kat-net | MWR Maps ONLY Team Deathmatch S1",
+            "map": "mp_overgrown",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "192.157.29.106",
+            "port": "27026",
+            "name": "Kat-Net | Domination S4",
+            "map": "mp_quarry",
+            "currentPlayers": 0,
+            "maxPlayers": 16
+        },
+        {
+            "ip": "192.157.29.106",
+            "port": "27025",
+            "name": "Kat-Net | Free For All S4 SNIPERS-ONLY GSC!",
+            "map": "mp_underpass",
+            "currentPlayers": 0,
+            "maxPlayers": 10
+        },
+        {
+            "ip": "192.157.29.106",
+            "port": "27031",
+            "name": "kat-net | MWR Maps ONLY Kill Confirmed S3",
+            "map": "mp_showdown",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "192.157.29.106",
+            "port": "27024",
+            "name": "Kat-Net | Free For All S3",
+            "map": "mp_afghan",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "154.26.154.85",
+            "port": "27019",
+            "name": "[AU] MintServers - MW2/COD4 FFA MAYHEM | 4XP",
+            "map": "mp_brecourt",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "154.26.154.85",
+            "port": "27020",
+            "name": "[AU] MintServers - MW2/COD4 GROUND WAR | 4XP",
+            "map": "mp_cargoship",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "213.181.206.43",
+            "port": "27016",
+            "name": "[EU/HUN]|HotSpot MW2 Szervere|DOM|x",
+            "map": "mp_favela",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "91.184.175.122",
+            "port": "27016",
+            "name": "[EU/GER] MW2 Refurbished - 24/7 VANILLA DOM - FastDL 1GBit - No Bots",
+            "map": "mp_shipment",
+            "currentPlayers": 0,
+            "maxPlayers": 16
+        },
+        {
+            "ip": "h2m.snipers.lol",
+            "port": "27016",
+            "name": "[EU] snipers.lol | SNIPERS ONLY! (LOW HP/NO STREAKS/NO BULLSHIT) #1",
+            "map": "mp_pipeline",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "148.59.74.39",
+            "port": "27016",
+            "name": "[US] Cloudscape FFA  #1 | Arizona",
+            "map": "mp_terminal",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "148.59.74.39",
+            "port": "27017",
+            "name": "[US] Cloudscape SND  #1 | Arizona",
+            "map": "mp_boneyard",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "89.32.245.8",
+            "port": "27016",
+            "name": "[EU] GLOVALI'S FAVORITE MAPS MWR/MW2 ON DOM",
+            "map": "mp_nightshift",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "78.157.42.107",
+            "port": "27016",
+            "name": "BODNJENIES Random Gamemodes Best Maps Havefun",
+            "map": "gulag",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "85.215.33.242",
+            "port": "27016",
+            "name": "TERMINAL 24/7 2XP (SNIPER ONLY) - Matzbear",
+            "map": "mp_terminal",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "94.130.65.242",
+            "port": "27016",
+            "name": "[EU] KT Servers | TDM Best MW2 Maps | XP | Map Voting Enabled",
+            "map": "mp_quarry",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "94.130.65.242",
+            "port": "27018",
+            "name": "[EU] KT Servers | FFA | XP",
+            "map": "mp_quarry",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "94.130.65.242",
+            "port": "27017",
+            "name": "[EU] KT Servers | TDM Small Maps | NO KILLSTREAKS | XP",
+            "map": "mp_rust",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "94.130.65.242",
+            "port": "27019",
+            "name": "[EU] KT Servers | RUST AND SHIPMENT 24/7 | XP",
+            "map": "mp_rust",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "h2m.voizdev.com",
+            "port": "27016",
+            "name": "[voizdev.com] TDM DOM SND | MW2 Maps ONLY | XP",
+            "map": "mp_checkpoint",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "194.147.58.39",
+            "port": "27016",
+            "name": "[EU]Caveman Servers [Domination] xp",
+            "map": "mp_terminal",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "88.99.151.226",
+            "port": "27029",
+            "name": "EU | H2M.AOKI.TO | XP | GUN GAME",
+            "map": "mp_estate",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "88.99.151.226",
+            "port": "27019",
+            "name": "EU | H2M.AOKI.TO | XP | KILL CONFIRMED (MW2 MAPS)",
+            "map": "mp_highrise",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "88.99.151.226",
+            "port": "27024",
+            "name": "EU | H2M.AOKI.TO | XP | SEARCH & DESTROY (ALL MAPS)",
+            "map": "airport",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "88.99.151.226",
+            "port": "27021",
+            "name": "EU | H2M.AOKI.TO | XP | DOMINATION (MW2 MAPS)",
+            "map": "mp_brecourt",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "88.99.151.226",
+            "port": "27031",
+            "name": "EU | H2M.AOKI.TO | XP | PRIVATE",
+            "map": "mp_terminal",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "88.99.151.226",
+            "port": "27023",
+            "name": "EU | H2M.AOKI.TO | XP | FREE FOR ALL (MW2 MAPS)",
+            "map": "mp_fuel2",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "88.99.151.226",
+            "port": "27030",
+            "name": "EU | H2M.AOKI.TO | XP | /7 KILLHOUSE",
+            "map": "mp_killhouse",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "88.99.151.226",
+            "port": "27018",
+            "name": "EU | H2M.AOKI.TO | XP | KILL CONFIRMED (ALL MAPS)",
+            "map": "mp_favela",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "88.99.151.226",
+            "port": "27025",
+            "name": "EU | H2M.AOKI.TO | XP | /7 HIGHRISE",
+            "map": "mp_highrise",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "88.99.151.226",
+            "port": "27020",
+            "name": "EU | H2M.AOKI.TO | XP | DOMINATION (ALL MAPS)",
+            "map": "oilrig",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "88.99.151.226",
+            "port": "27022",
+            "name": "EU | H2M.AOKI.TO | XP | FREE FOR ALL (ALL MAPS)",
+            "map": "mp_killhouse",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "88.99.151.226",
+            "port": "27017",
+            "name": "EU | H2M.AOKI.TO | XP | TEAM DEATHMATCH (ALL MAPS)",
+            "map": "dc_whitehouse",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "88.99.151.226",
+            "port": "27016",
+            "name": "EU | H2M.AOKI.TO | XP | TEAM DEATHMATCH (MW2 MAPS)",
+            "map": "mp_invasion",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "172.205.181.140",
+            "port": "27017",
+            "name": "[EU] Infected ZombieLand test",
+            "map": "mp_nightshift",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "87.106.71.84",
+            "port": "27017",
+            "name": "@takivv | EU - ALL MAPS 24/7 - SNIPER ONLY",
+            "map": "mp_compact",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "2600:4809:a833:7500::1302",
+            "port": "27017",
+            "name": "[NA]  [GRUG]  DOUBLE XP MOSHPIT VOTING",
+            "map": "mp_brecourt",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "2600:1700:d380:af0:d97d:5877:3a66:c6f0",
+            "port": "27016",
+            "name": "[US] [LucidNet] [Vote] Mw2 Maps || Kill Confirmed & Gungame || Bots",
+            "map": "mp_brecourt",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "185.172.175.32",
+            "port": "27016",
+            "name": "[EU] secretDivinity WAR [BEST CONNECTION] NO KS [X2 XP]",
+            "map": "mp_cargoship",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "191.238.217.48",
+            "port": "27016",
+            "name": "BRASIL | DOMINATION ALL MAPS 24/7 | 2XP",
+            "map": "mp_backlot",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "160.119.250.169",
+            "port": "27016",
+            "name": "[SA] BigE's South African Server",
+            "map": "mp_rust",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "198.98.204.104",
+            "port": "27124",
+            "name": "[US] [2XP] [DynamicLab] 24/7 9v9 DOM | MW2 Maps | No Killstreaks",
+            "map": "mp_checkpoint",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "198.98.204.104",
+            "port": "27125",
+            "name": "[US] [2XP] [DynamicLab] 24/7 All Modes | MW2 Maps",
+            "map": "mp_abandon",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "198.98.204.104",
+            "port": "27122",
+            "name": "[US] [2XP] [DynamicLab] 24/7 SnD | MW2 Maps",
+            "map": "mp_subbase",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "198.98.204.104",
+            "port": "27123",
+            "name": "[US] [2XP] [DynamicLab] 24/7 10 Man FFA | MW2 Maps",
+            "map": "mp_afghan",
+            "currentPlayers": 0,
+            "maxPlayers": 10
+        },
+        {
+            "ip": "172.86.111.81",
+            "port": "27016",
+            "name": "Dream Servers | TDM, DOM, S&D | dreamservers.info/discord",
+            "map": "mp_pipeline",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "asdfasdvvfs.store",
+            "port": "32766",
+            "name": "[US EAST]  24/7 Cory's FFA TRICKSHOTS  5 KILLS",
+            "map": "mp_complex",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "154.38.178.157",
+            "port": "27016",
+            "name": "[US] 7k SnD",
+            "map": "mp_overgrown",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "185.172.175.33",
+            "port": "2614",
+            "name": "[EU/UK] JP's Ground War [x2 XP] [Mapvote] [No Post-Match D/C!]",
+            "map": "mp_broadcast",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "37.221.194.203",
+            "port": "27016",
+            "name": "[EU][x2 XP]TW.tv/der_kaya MWR&MW2 Maps [TDM][KC][DOM] Map&Mode-Vote",
+            "map": "mp_compact",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "37.221.194.203",
+            "port": "27019",
+            "name": "[EU][x2 XP]TW.tv/der_kaya MWR&MW2 Maps [FFA][GunGame] Map&Mode-Vote #2",
+            "map": "mp_subbase",
+            "currentPlayers": 0,
+            "maxPlayers": 10
+        },
+        {
+            "ip": "37.221.194.203",
+            "port": "27021",
+            "name": "[EU][x2 XP]TW.tv/der_kaya MWR&MW2 Maps [S&D] Map&Mode-Vote #2",
+            "map": "mp_creek",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "37.221.194.203",
+            "port": "27020",
+            "name": "[EU][x2 XP]TW.tv/der_kaya MWR&MW2 Maps [S&D] Map&Mode-Vote",
+            "map": "mp_compact",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "37.221.194.203",
+            "port": "27017",
+            "name": "[EU][x2 XP]TW.tv/der_kaya MWR&MW2 Maps [TDM][KC][DOM] Map&Mode-Vote #2",
+            "map": "mp_shipment",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "37.221.194.203",
+            "port": "27018",
+            "name": "[EU][x2 XP]TW.tv/der_kaya MWR&MW2 Maps [FFA][GunGame] Map&Mode-Vote",
+            "map": "mp_carentan",
+            "currentPlayers": 0,
+            "maxPlayers": 10
+        },
+        {
+            "ip": "166.0.130.145",
+            "port": "27016",
+            "name": "US-TX Nostalgic Warfare | XP | Map Rotation",
+            "map": "mp_crash",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "222.186.34.10",
+            "port": "27011",
+            "name": "\u00e5\u0160\u00a0Q\u00e7\u00be\u00a4940492488 CN ^;Search and Destroy \u00e6\u0090\u0153\u00e7\u00b4\u00a2\u00e4\u00b8\u017d\u00e7\u02c6\u2020\u00e7\u00a0\u00b4",
+            "map": "mp_nightshift",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "222.186.34.10",
+            "port": "27012",
+            "name": "\u00e5\u0160\u00a0Q\u00e7\u00be\u00a4940492488 CN Sniper Only \u00e4\u00bb\u2026\u00e7\u2039\u2122\u00e5\u2021\u00bb",
+            "map": "mp_shipment",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "120.46.31.247",
+            "port": "27014",
+            "name": "\u00e5\u0160\u00a0Q\u00e7\u00be\u00a4940492488 CN Face off Mosh pit",
+            "map": "mp_boneyard",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "120.46.31.247",
+            "port": "27015",
+            "name": "\u00e5\u0160\u00a0Q\u00e7\u00be\u00a4940492488 CN MW1~MW2Maps Mosh pit",
+            "map": "mp_complex",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "108.175.253.14",
+            "port": "27016",
+            "name": "JoetatoServer",
+            "map": "mp_favela",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "142.68.198.0",
+            "port": "27016",
+            "name": "LXPU'S COTTAGE / DOM | MW2 MAPS | LOW PING | BOTS | NUKES DISABLED",
+            "map": "mp_terminal",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "2600:1700:2938:10:2437:7e1f:7e80:1a23",
+            "port": "27017",
+            "name": "~|IslandNetwork|~ | NA-Chicago | /7 Shipment TDM/DOM/HP | 6v6 |",
+            "map": "mp_shipment",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "2600:1700:2938:10:2437:7e1f:7e80:1a23",
+            "port": "27018",
+            "name": "~|IslandNetwork|~ | NA-Chicago | /7 Search n Destory | MW2/MWR Maps | 6v6 |",
+            "map": "mp_terminal",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "2600:1700:2938:10:2437:7e1f:7e80:1a23",
+            "port": "27019",
+            "name": "~|IslandNetwork|~ | NA-Chicago | /7 GunGame | MW2/MWR Maps |",
+            "map": "mp_crossfire",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "2600:1700:2938:10:2437:7e1f:7e80:1a23",
+            "port": "27016",
+            "name": "~|IslandNetwork|~ | NA-Chicago | /7 Rust Domination | 6v6 |",
+            "map": "mp_rust",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "95.217.121.39",
+            "port": "27016",
+            "name": "The Belter Pack Server [HARDCORE DOM] [UK] (2XP)",
+            "map": "mp_afghan",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "68.36.61.238",
+            "port": "27016",
+            "name": "[US-East] The Blacklist [MWR/MW2 Best Maps] TDM Only! [2XP]",
+            "map": "mp_shipment",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "75.183.9.186",
+            "port": "27017",
+            "name": "[US-E][JumpTactics][2XP]Domination 24/7 MW2",
+            "map": "mp_derail",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "75.183.9.186",
+            "port": "27020",
+            "name": "1[US-E][JumpTactics][2XP]S&D",
+            "map": "mp_rundown",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "75.183.9.186",
+            "port": "27018",
+            "name": "1[US-E][JumpTactics][2XP]Terminal 24/7",
+            "map": "mp_terminal",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "75.183.9.186",
+            "port": "27019",
+            "name": "1[US-E][JumpTactics][2XP]RustMent 24/7 MW2",
+            "map": "mp_rust",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "70.169.12.222",
+            "port": "27016",
+            "name": "SIXX Free4all&TDM xXP",
+            "map": "mp_backlot",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "70.133.169.184",
+            "port": "27016",
+            "name": "NA | eck's crab shack | snd | snipers only | trickshot mod | xp | best mw2 maps",
+            "map": "mp_quarry",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "15.204.247.49",
+            "port": "27016",
+            "name": "MACHETEBOYZ ANTI-NOOB",
+            "map": "oilrig",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "VynxH2M.ddns.net",
+            "port": "27017",
+            "name": "[Vynx.Dev] OBJ Modes | x XP | Custom Scripts |  Players",
+            "map": "mp_checkpoint",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "VynxH2M.ddns.net",
+            "port": "27016",
+            "name": "[Vynx.Dev] Free For All | x XP | Custom Scripts |  Players",
+            "map": "mp_favela",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "VynxH2M.ddns.net",
+            "port": "27018",
+            "name": "[Vynx.Dev] Gun Game | x XP | Custom Scripts |  Players",
+            "map": "mp_favela",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "152.53.39.127",
+            "port": "27017",
+            "name": "[US-EAST] Respex | Map Voting | COD4/MW2 Maps | HARDCORE TDM | 2XP",
+            "map": "mp_crash_snow",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "152.53.39.127",
+            "port": "27018",
+            "name": "[US-EAST] Respex | Map Voting | COD4/MW2 Maps | DOM 1000 PTS | 2XP",
+            "map": "mp_backlot",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "172.234.206.237",
+            "port": "27016",
+            "name": "H2M Reborn [2XP]",
+            "map": "mp_overgrown",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "207.244.250.234",
+            "port": "27016",
+            "name": "TermServ [NA East] Multi-Mode 24/7 Terminal",
+            "map": "mp_terminal",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "5.78.113.111",
+            "port": "27017",
+            "name": "[NA-WEST] Dentora's Server #2 [MW2]",
+            "map": "mp_afghan",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "5.78.113.111",
+            "port": "27018",
+            "name": "[NA-WEST] Dentora's Server FFA Advanced Warfare #3 [MW2]",
+            "map": "mp_blackbox",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "5.78.113.111",
+            "port": "27016",
+            "name": "[NA-WEST] Dentora's Server #1 [MWR+MW2]",
+            "map": "mp_rust",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "memecity.co",
+            "port": "27020",
+            "name": "[AU] Memecity TDM NO BOTS x2 XP",
+            "map": "mp_cargoship",
+            "currentPlayers": 0,
+            "maxPlayers": 10
+        },
+        {
+            "ip": "memecity.co",
+            "port": "27017",
+            "name": "[AU] Memecity Gamin FFA Only",
+            "map": "mp_crossfire",
+            "currentPlayers": 0,
+            "maxPlayers": 14
+        },
+        {
+            "ip": "67.209.226.8",
+            "port": "27016",
+            "name": "23 Crowns Sniper Lobby",
+            "map": "mp_convoy",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "147.185.221.16",
+            "port": "35009",
+            "name": "[NA-S] Snappy's Fun House | MAP-VOTE | MW2-MAPS | NUKES | BOTS |",
+            "map": "mp_nightshift",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "98.239.132.237",
+            "port": "27016",
+            "name": "Bishop's Server | XP WEEKEND! | AW Maps 24/7",
+            "map": "mp_torqued",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "98.239.132.237",
+            "port": "27017",
+            "name": "Bishop's Server | XP WEEKEND! | MWR/MW2 Maps 24/7",
+            "map": "mp_broadcast",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "192.157.29.111",
+            "port": "27016",
+            "name": "[US] Level Up Lounge <MapVote|3XP|Best Maps|24/7>",
+            "map": "mp_cargoship",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "193.237.137.81",
+            "port": "27016",
+            "name": "Something Dank|3xp|Map Vote|",
+            "map": "mp_rundown",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "170.39.49.121",
+            "port": "7811",
+            "name": "[US] | MUNNOPOLY | Search & Destroy | ALL MAPS + MAP VOTE |v6|",
+            "map": "mp_abandon",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "170.39.49.121",
+            "port": "7812",
+            "name": "[US] | MUNNOPOLY | Search & Destroy | ALL MAPS + MAP VOTE |v9|",
+            "map": "mp_abandon",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "170.39.49.121",
+            "port": "7813",
+            "name": "[US] | MUNNOPOLY | MIXED MODES 1 | ALL MAPS + VOTE |DOM|HP|FFA|HQ|SAB|GG|",
+            "map": "mp_abandon",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "170.39.49.121",
+            "port": "7814",
+            "name": "[US] | MUNNOPOLY | MIXED MODES 2 | ALL MAPS + VOTE |TDM|DOM|FFA|KC|GG|",
+            "map": "mp_terminal",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "2003:c1:f37:a200:78b9:1e0:8f16:47a5",
+            "port": "27016",
+            "name": "VerTu Bot Lobby FFA 2XP",
+            "map": "mp_shipment",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "2003:c1:f37:a200:78b9:1e0:8f16:47a5",
+            "port": "27017",
+            "name": "[EU] Jevz's Domination Vanilla ms to FFM",
+            "map": "mp_backlot",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "202.137.244.149",
+            "port": "27016",
+            "name": "[AU] Busted Server 4X",
+            "map": "mp_overgrown",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "5.146.200.74",
+            "port": "27016",
+            "name": "[DE][2XP] /7 Dom All MW2 Maps",
+            "map": "mp_rundown",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "45.62.160.176",
+            "port": "27016",
+            "name": "[NA-C] Krypt's 09' Classics | MW2 MAPS ONLY | DOM | 2XP | 24/7",
+            "map": "mp_afghan",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "68.197.247.37",
+            "port": "27016",
+            "name": "RebelRowzers | Trickshotting FFA",
+            "map": "mp_terminal",
+            "currentPlayers": 0,
+            "maxPlayers": 10
+        },
+        {
+            "ip": "78.117.191.15",
+            "port": "27020",
+            "name": "[EU] Advanced Warfare (Exo-Movement + Maps) | Search & Destroy",
+            "map": "mp_venus",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "78.117.191.15",
+            "port": "27019",
+            "name": "[EU] Exo-Movement MW2/MWR Maps | Domination",
+            "map": "mp_showdown",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "78.117.191.15",
+            "port": "27018",
+            "name": "[EU] Exo-Movement MW2/MWR/AW Maps | TDM/DOM/KC/HP",
+            "map": "mp_citystreets",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "184.174.18.202",
+            "port": "27020",
+            "name": "GWK FFA TRICKSHOT",
+            "map": "mp_boneyard",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "184.174.18.202",
+            "port": "27019",
+            "name": "GWK SnD 3 (x2XP)",
+            "map": "mp_compact",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "51.161.57.60",
+            "port": "27018",
+            "name": "ColorComparison | Trickshot FFA",
+            "map": "mp_crash",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "209.216.78.202",
+            "port": "27017",
+            "name": "[TLS] Official H2M Server 6v6 Vanilla",
+            "map": "mp_farm",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "209.216.78.202",
+            "port": "27016",
+            "name": "[TLS] Official H2M Server FFA Vanilla Double XP",
+            "map": "mp_overgrown",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "217.34.54.200",
+            "port": "27016",
+            "name": "[UK-West] The Blacklist [MWR/MW2 Best Maps] TDM Only! [2XP]",
+            "map": "mp_terminal",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "71.82.137.123",
+            "port": "46700",
+            "name": "[US] Blood Clot | Domination | MW2 Maps Only",
+            "map": "mp_storm",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "71.82.137.123",
+            "port": "46701",
+            "name": "[US] Blood Clot | NEW Snipers Only | MW2+MWR Maps!",
+            "map": "mp_vacant",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "mother-villas.gl.at.ply.gg",
+            "port": "34910",
+            "name": "Gin & Zaeh bills",
+            "map": "mp_estate",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "142.116.41.198",
+            "port": "27016",
+            "name": "[US EAST] Duggys x2 XP | HARDCORE | TDM/DOM/KC/GUNGAME/HP/FFA*ALL MAPS*",
+            "map": "mp_cargoship",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "45.8.187.75",
+            "port": "27016",
+            "name": "[EU] The Cave NORAT SKIRMISH MW/MW2 ALL MAPS",
+            "map": "mp_pipeline",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "45.8.187.75",
+            "port": "27017",
+            "name": "[EU] The Cave CLASSIC MW/MW2 ALL MAPS [WEEKEND XP x2]",
+            "map": "mp_complex",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "82.197.67.69",
+            "port": "27016",
+            "name": "NA EAST DOM MW2 AND COD4 MAPS DBL XP",
+            "map": "mp_boneyard",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "100.1.135.248",
+            "port": "27016",
+            "name": "Default Server",
+            "map": "mp_terminal",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "26.179.9.230",
+            "port": "27016",
+            "name": "[NA East] Akatsuki Mw2  Classic Dominaton x2XP",
+            "map": "mp_quarry",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "185.217.126.131",
+            "port": "27018",
+            "name": "[EU]  | SPSERVERS  | H2MESP DISCORD  | MW2MAPS  | FFA  | [X2 XP]",
+            "map": "mp_afghan",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "185.217.126.131",
+            "port": "27016",
+            "name": "[EU]  | SPSERVERS  | H2MESP DISCORD  | MW2MAPS  | [X2 XP]",
+            "map": "mp_killhouse",
+            "currentPlayers": 0,
+            "maxPlayers": 14
+        },
+        {
+            "ip": "185.217.126.131",
+            "port": "27017",
+            "name": "[EU]  | SPSERVERS  | H2MESP DISCORD  | MW2MAPS  | GUNGAME  | [X2 XP]",
+            "map": "mp_afghan",
+            "currentPlayers": 0,
+            "maxPlayers": 14
+        },
+        {
+            "ip": "hostchile.ddns.net",
+            "port": "25501",
+            "name": "[LATAM] TAFFER | Team Deathmatch COD4/MW2 Maps 2XP",
+            "map": "mp_vacant",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "hostchile.ddns.net",
+            "port": "25502",
+            "name": "[LATAM] TAFFER | Rustment 2XP",
+            "map": "mp_rust",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "hostchile.ddns.net",
+            "port": "27027",
+            "name": "[LATAM] TAFFER | Team Deathmatch MW2 Maps 2XP",
+            "map": "mp_favela",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "hostchile.ddns.net",
+            "port": "25505",
+            "name": "[LATAM] TAFFER | Team Deathmatch AW Maps 2XP",
+            "map": "mp_terrace",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "hostchile.ddns.net",
+            "port": "25504",
+            "name": "[LATAM] TAFFER | Domination MW2 Maps 2XP",
+            "map": "mp_subbase",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "hostchile.ddns.net",
+            "port": "25503",
+            "name": "[LATAM] TAFFER | Terminal 24/7 2XP",
+            "map": "mp_terminal",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "82.137.57.17",
+            "port": "27016",
+            "name": "AVANTI-TEAM Server",
+            "map": "mp_citystreets",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "139.99.171.181",
+            "port": "27016",
+            "name": "[AU] DOM BEST MW2 MAPS [4XP]",
+            "map": "mp_favela",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "2a00:23c7:eead:2100:99c6:39dc:391f:36e",
+            "port": "27003",
+            "name": "[UK] AlterIWNet | TDM | Terminal 24/7",
+            "map": "mp_terminal",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "2a00:23c7:eead:2100:99c6:39dc:391f:36e",
+            "port": "27002",
+            "name": "[UK] AlterIWNet | S&D Vanilla | All MW2 Maps",
+            "map": "mp_brecourt",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "2a00:23c7:eead:2100:99c6:39dc:391f:36e",
+            "port": "27001",
+            "name": "[UK] AlterIWNet | TDM Vanilla | All MW2/MWR Maps",
+            "map": "mp_bog_summer",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "82.47.43.123",
+            "port": "27016",
+            "name": "[UK SOUTH-WEST] [SAMURAI] | VANILLA | ALLMAPS | ALLMODES | VOTE |",
+            "map": "mp_carentan",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "154.38.179.211",
+            "port": "27017",
+            "name": "[LATAM-USA]  | SPSERVERS  | H2MESP DISCORD  | MW2MAPS  | GUNGAME  | [X2 XP]",
+            "map": "mp_complex",
+            "currentPlayers": 0,
+            "maxPlayers": 14
+        },
+        {
+            "ip": "154.38.179.211",
+            "port": "27018",
+            "name": "[LATAM-USA]  | SPSERVERS  | H2MESP DISCORD  | MW2MAPS  | FFA  | [X2 XP]",
+            "map": "mp_nightshift",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "70.160.106.223",
+            "port": "27016",
+            "name": "US Starza S&D trickshot Beta",
+            "map": "mp_quarry",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "h2m.servphcorpp.com",
+            "port": "37017",
+            "name": "[NAE x EXP] Fat Floppy Weiners GLOBAL THERMONUCLEAR WAR",
+            "map": "mp_favela",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "2603:6010:9800:1a7:6d83:a2c:70f8:4376",
+            "port": "27017",
+            "name": "Kro's DOMINATION",
+            "map": "mp_bog_summer",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "84.177.73.246",
+            "port": "27016",
+            "name": "Mollegaming",
+            "map": "mp_trailerpark",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "91.107.214.144",
+            "port": "27016",
+            "name": "[ EU  ] ParadiZe Infected",
+            "map": "mp_trailerpark",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "2804:8364:301:3300:60dc:171e:7cb4:b447",
+            "port": "7084",
+            "name": "GAMEX BR MODOS SUPREMOS 4XP DOBRO DISCORD.GG/CDGBR",
+            "map": "mp_rundown",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "54.37.245.114",
+            "port": "27023",
+            "name": "[EU/UK] Evolved | Moshpit MW2 Maps [TDM|DOM|HP|HQ|KC] | /7 - 2XP",
+            "map": "mp_terminal",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "54.37.245.114",
+            "port": "27020",
+            "name": "[EU/UK] Evolved | Domination [MW2 Maps] | /7 - 2XP",
+            "map": "mp_afghan",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "54.37.245.114",
+            "port": "27019",
+            "name": "[EU/UK] Evolved | Headquarters [MW2/COD4 Maps]| /7 - 2XP",
+            "map": "mp_afghan",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "54.37.245.114",
+            "port": "27022",
+            "name": "[EU/UK] Evolved | Domination [Terminal Only] | /7 - 2XP",
+            "map": "mp_terminal",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "54.37.245.114",
+            "port": "27018",
+            "name": "[EU/UK] Evolved | Kill Confirmed [MW2/COD4 Maps] | /7 - 2XP",
+            "map": "mp_afghan",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "54.37.245.114",
+            "port": "27016",
+            "name": "[EU/UK] Evolved | Search and Destroy [MW2/COD4 Maps] | /7 - 2XP",
+            "map": "mp_afghan",
+            "currentPlayers": 0,
+            "maxPlayers": 12
+        },
+        {
+            "ip": "54.37.245.114",
+            "port": "27017",
+            "name": "[EU/UK] Evolved | Domination [MW2/COD4 Maps] | /7 - 2XP",
+            "map": "mp_afghan",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        },
+        {
+            "ip": "86.146.215.228",
+            "port": "55555",
+            "name": "Blazed MW2 2XP UK",
+            "map": "mp_bigben2",
+            "currentPlayers": 0,
+            "maxPlayers": 18
+        }
+    ]
+}

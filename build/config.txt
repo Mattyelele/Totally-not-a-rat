@@ -1,0 +1,48 @@
+Version 0.0.2
+OpenKey=114
+# 1 = On, 0 = Off
+Discord-Intergration: 0
+Discord-LargeImg: ["", ""]
+
+#BACK = 8
+#TAB = 9
+#RETURN = 13
+#SHIFT = 16
+#CONTROL = 17
+#MENU = 18
+#PAUSE = 19
+#CAPITAL = 20
+#ESCAPE = 27
+#SPACE = 32
+#PRIOR = 33
+#NEXT = 34
+#END = 35
+#HOME = 36
+#LEFT = 37
+#UP = 38
+#RIGHT = 39
+#DOWN = 40
+#INSERT = 45
+#DELETE = 46
+#NUMPAD0 = 96
+#NUMPAD1 = 97
+#NUMPAD2 = 98
+#NUMPAD3 = 99
+#NUMPAD4 = 100
+#NUMPAD5 = 101
+#NUMPAD6 = 102
+#NUMPAD7 = 103
+#NUMPAD8 = 104
+#NUMPAD9 = 105
+#F1 = 112
+#F2 = 113
+#F3 = 114
+#F4 = 115
+#F5 = 116
+#F6 = 117
+#F7 = 118
+#F8 = 119
+#F9 = 120
+#F10 = 121
+#F11 = 122
+#F12 = 123

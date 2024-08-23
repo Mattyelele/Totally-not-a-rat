@@ -6,35 +6,75 @@
 #include <thread>
 #include <atomic>
 #include <tlhelp32.h>
+#include <streambuf>
 
 //my headers
 #include "ConfigManager.h"
 #include "keys.h"
+#include "autoclicker.h"
+#include "globals.h"
+#include "LowLevelKeyboardProc.h"
+#include "discordgamecore.h"
+#include "console.h"
+#include "Modules/ServerBrowser.h"
+#include "Modules/Serverinfo.h"
+#include "Modules/Memory.h"
 
 //imgui
-#include <imgui.h>
-#include <imgui_impl_dx11.h>
-#include <imgui_impl_win32.h>
+#include <imgui/imgui.h>
+#include <imgui/imgui_impl_dx11.h>
+#include <imgui/imgui_impl_win32.h>
 
 #pragma comment(lib, "dwmapi.lib")
 #pragma comment(lib, "d3d11.lib")
 
-// Declare hotkey variable
-int openKey = VK_F2; // Default to F2
-
 // Function prototypes
 void RightClick();
 void AutoClicker(std::atomic<bool>& running);
-LRESULT CALLBACK LowLevelKeyboardProc(int nCode, WPARAM wParam, LPARAM lParam);
+void Plsworkservers();
+
+// Global variables for DirectX and ImGui
+ID3D11Device* device = nullptr;
+ID3D11DeviceContext* device_context = nullptr;
+IDXGISwapChain* swap_chain = nullptr;
+ID3D11RenderTargetView* render_target_view = nullptr;
+
+static char detailtext[128] = "";
+static char statetext[128] = "";
+static const char* imgitems[] = {"20220827_102222", "spongebob_no"};
+static int selectedItem = 0;
+
 LRESULT CALLBACK window_procedure(HWND window, UINT message, WPARAM w_param, LPARAM l_param);
 extern IMGUI_IMPL_API LRESULT ImGui_ImplWin32_WndProcHandler(HWND hWnd, UINT msg, WPARAM wParam, LPARAM lParam);
+LRESULT CALLBACK LowLevelKeyboardProc(int nCode, WPARAM wParam, LPARAM lParam);
 
-bool showMenu = true;
-HHOOK hKeyboardHook;
-std::atomic<bool> autoClickerRunning{ false };
-bool keepShifting = false;
-static bool checkboxState = false;
-static bool shiftcheckboxState = false;
+void UpdateDiscordPresence(const std::string& state, const std::string& details, const std::string imgId);
+void InitDiscord();
+void RunCallbacks();
+
+Console console;
+
+// Custom stream buffer to capture output
+class ConsoleStreamBuf : public std::streambuf {
+public:
+    ConsoleStreamBuf(Console& console) : console(console) {}
+
+protected:
+    virtual int overflow(int c) override {
+        if (c == '\n') {
+            console.AddLog("%s", buffer.c_str());
+            buffer.clear();
+        }
+        else {
+            buffer += static_cast<char>(c);
+        }
+        return c;
+    }
+
+private:
+    Console& console;
+    std::string buffer;
+};
 
 bool IsAnotherInstanceRunning() {
     HANDLE hMutex = CreateMutex(NULL, TRUE, L"Totally not a rat");
@@ -53,65 +93,6 @@ bool IsAnotherInstanceRunning() {
     return false;
 }
 
-// Function to simulate a right mouse click
-void RightClick() {
-    if (keepShifting) {
-        keybd_event(VK_SHIFT, 0, 0, 0);
-    }
-    mouse_event(MOUSEEVENTF_RIGHTDOWN, 0, 0, 0, 0);
-    std::this_thread::sleep_for(std::chrono::milliseconds(10));
-    mouse_event(MOUSEEVENTF_RIGHTUP, 0, 0, 0, 0);
-}
-
-// Auto-clicker thread function
-void AutoClicker(std::atomic<bool>& running) {
-    while (running.load()) {
-        RightClick();
-        std::this_thread::sleep_for(std::chrono::milliseconds(100));
-    }
-    keybd_event(VK_SHIFT, 0, KEYEVENTF_KEYUP, 0);
-}
-
-// LowLevelKeyboardProc function for global hotkey detection
-LRESULT CALLBACK LowLevelKeyboardProc(int nCode, WPARAM wParam, LPARAM lParam) {
-    static bool hotkeyPressed = false;
-
-    if (nCode == HC_ACTION && (wParam == WM_KEYDOWN || wParam == WM_SYSKEYDOWN)) {
-        KBDLLHOOKSTRUCT* p = (KBDLLHOOKSTRUCT*)lParam;
-        if (p->vkCode == openKey) {
-            hotkeyPressed = true;
-        }
-        if (hotkeyPressed && p->vkCode == 'Q') {
-            autoClickerRunning.store(false);
-            checkboxState = false;
-        }
-        if (p->vkCode == openKey) {
-            showMenu = !showMenu;
-            HWND window = FindWindow(L"Overlay Menu Class", L"Overlay Menu");
-            if (window) {
-                LONG exStyle = GetWindowLong(window, GWL_EXSTYLE);
-                if (showMenu) {
-                    exStyle &= ~WS_EX_TRANSPARENT;
-                }
-                else {
-                    exStyle |= WS_EX_TRANSPARENT;
-                }
-                SetWindowLong(window, GWL_EXSTYLE, exStyle);
-                SetLayeredWindowAttributes(window, RGB(0, 0, 0), showMenu ? BYTE(255) : BYTE(0), LWA_ALPHA);
-                if (showMenu) {
-                    SetForegroundWindow(window);
-                }
-            }
-        }
-    }
-    if (nCode == HC_ACTION && (wParam == WM_KEYUP || wParam == WM_SYSKEYUP)) {
-        KBDLLHOOKSTRUCT* p = (KBDLLHOOKSTRUCT*)lParam;
-        if (p->vkCode == openKey) {
-            hotkeyPressed = false;
-        }
-    }
-    return CallNextHookEx(hKeyboardHook, nCode, wParam, lParam);
-}
 
 // Window procedure function
 LRESULT CALLBACK window_procedure(HWND hwnd, UINT message, WPARAM wParam, LPARAM lParam) {
@@ -139,6 +120,16 @@ INT APIENTRY WinMain(HINSTANCE instance, HINSTANCE, PSTR, INT cmd_show) {
     if (!ConfigManager::LoadConfig(openKey)) {
         std::cerr << "Failed to load configuration. Using default hotkey." << std::endl;
     }
+
+    Console console;
+    ConsoleStreamBuf consoleStreamBuf(console);
+
+    // Redirect std::cout and std::cerr
+    std::streambuf* origCoutBuf = std::cout.rdbuf(&consoleStreamBuf);
+    std::streambuf* origCerrBuf = std::cerr.rdbuf(&consoleStreamBuf);
+
+    InitDiscord();
+    
 
     WNDCLASSEXW wc{};
     wc.cbSize = sizeof(WNDCLASSEXW);
@@ -241,8 +232,13 @@ INT APIENTRY WinMain(HINSTANCE instance, HINSTANCE, PSTR, INT cmd_show) {
         ImGui_ImplWin32_NewFrame();
         ImGui::NewFrame();
 
+        static bool show_console = true;
+        console.Draw("Console", &show_console);
+
         // Inside your ImGui rendering loop
         if (showMenu) {
+            SetForegroundWindow(window);
+            ImGui::SetNextFrameWantCaptureKeyboard(true);
             ImGui::Begin("Menu");
             ImGui::Text("Press %s to hide this menu", ImGui::GetKeyName(VirtualKeyToImGuiKey(openKey)));
             if (ImGui::Button("Exit")) {
@@ -260,8 +256,27 @@ INT APIENTRY WinMain(HINSTANCE instance, HINSTANCE, PSTR, INT cmd_show) {
             if (ImGui::Checkbox("Keep shifting", &shiftcheckboxState)) {
                 keepShifting = shiftcheckboxState;
             }
+
+            if (ImGui::Button("")) {
+
+            }
             ImGui::End();
-        }
+            ImGui::Begin("discord");
+
+            ImGui::InputText("Details", detailtext, IM_ARRAYSIZE(detailtext));
+            ImGui::InputText("State", statetext, IM_ARRAYSIZE(statetext));
+            ImGui::Combo("Select LargeImage", &selectedItem, imgitems, IM_ARRAYSIZE(imgitems));
+
+            if (ImGui::Button("Set Discord Presence")) {
+                UpdateDiscordPresence(statetext, detailtext, imgitems[selectedItem]);
+            }
+
+            ImGui::End();
+
+            Plsworkservers();
+        }   
+
+        
 
         ImGui::Render();
 
@@ -272,6 +287,7 @@ INT APIENTRY WinMain(HINSTANCE instance, HINSTANCE, PSTR, INT cmd_show) {
         ImGui_ImplDX11_RenderDrawData(ImGui::GetDrawData());
 
         swap_chain->Present(1U, 0U);
+        RunCallbacks();
     }
 
     ImGui_ImplDX11_Shutdown();
@@ -283,7 +299,7 @@ INT APIENTRY WinMain(HINSTANCE instance, HINSTANCE, PSTR, INT cmd_show) {
     device_context->Release();
     device->Release();
 
-    UnhookWindowsHookEx(hKeyboardHook);
+    //UnhookWindowsHookEx(hKeyboardHook);
 
     return 0;
 }
